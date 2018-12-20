@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2017-03-08 20:14+0400\n"
+"PO-Revision-Date: 2017-03-08 21:50+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Gli Chat "
+
+msgid "settings_tab_color"
+msgstr "L'Interfaccia di Chat "
+
+msgid "settings_width"
+msgstr "La Larghezza "
+
+msgid "settings_panel_background"
+msgstr "Il Colore degli Fondali di titolo "
+
+msgid "settings_panel_border_color"
+msgstr "Il Colore del cornice di chat "
+
+msgid "settings_body_background"
+msgstr "Il colore degli fondali di messaggio "
+
+msgid "settings_btn_finish_background"
+msgstr "Il colore degli fondali di pulsante \"Portare a compimento\""
+
+msgid "settings_btn_finish_color"
+msgstr "Il colore del testo di pulsante \"Portare a compimento\""
+
+msgid "settings_btn_finish_border_color"
+msgstr "Il colore del cornice di pulsante \"Portare a compimento\""
+
+msgid "settings_btn_expand_background"
+msgstr "Il colore degli fondali di pulsante \"della scopertura\""
+
+msgid "settings_admin_signature_color"
+msgstr "Il colore di pulsante della firma d'amministratore"
+
+msgid "settings_admin_text_color"
+msgstr "Il colore del testo di messaggio dell'amministratore "
+
+msgid "settings_user_signature_color"
+msgstr "Il colore di testo della firma di visitatore "
+
+msgid "settings_user_text_color"
+msgstr "Il colore del testo di messaggio dell'usuario "
+
+msgid "settings_time_color"
+msgstr "Il colore di marea del tempo "
+
+msgid "settings_message_border_color"
+msgstr "Il colore di cornice del messaggio "
+
+msgid "settings_write_panel_background"
+msgstr "Il colore degli fondali di pannello "
+
+msgid "settings_write_area_background"
+msgstr "Il colore degli fondali del campo d'inserimento del messaggio "
+
+msgid "settings_write_area_color"
+msgstr "Il colore di testo nel campo dell'inserimento di messaggio "
+
+msgid "settings_show_avatars"
+msgstr "Mostrare gli avatari?"
+
+msgid "settings_admin_avatar"
+msgstr "L'avatar dell'amministratore "
+
+msgid "settings_user_avatar"
+msgstr "L'avatar del visitatore "
+
+msgid "settings_tab_template"
+msgstr "Le impostazioni estensive di computer "
+
+msgid "settings_position"
+msgstr "La posizione "
+
+msgid "settings_position_left"
+msgstr "A sinistra "
+
+msgid "settings_position_right"
+msgstr "A destra "
+
+msgid "settings_status"
+msgstr "Il status del chat "
+
+msgid "settings_status_1"
+msgstr "Online "
+
+msgid "settings_status_2"
+msgstr "Implicito "
+
+msgid "settings_status_3"
+msgstr "Offline "
+
+msgid "settings_tab_text"
+msgstr "Gli testi di chat "
+
+msgid "settings_admin_signature"
+msgstr "La firma dell'amministratore "
+
+msgid "settings_user_signature"
+msgstr "La firma del visitatore "
+
+msgid "settings_hello_message"
+msgstr "Il messaggio salutatorio "
+
+msgid "settings_panel_title"
+msgstr "Il titolo di pannello "
+
+msgid "settings_enter_text_placeholder"
+msgstr "La guida in linea per il campo del inserimento "
+
+msgid "settings_btn_finish_text"
+msgstr "La denominazione del pulsante \"Portare a compimento\""
+
+msgid "settings_thank_message"
+msgstr "Il messaggio di ringraziamento "
+
+msgid "settings_offline_message"
+msgstr "Il messaggio \"offline\""
+
+msgid "settings_email_label"
+msgstr "L'indirizzo della posta elettronica"
+
+msgid "settings_name_label"
+msgstr "Il nome "
+
+msgid "settings_message_label"
+msgstr "La firma di messaggio "
+
+msgid "settings_send_email"
+msgstr "Il nome del pulsante \"spedire una lettera\""
+
+msgid "settings_offline_thank_message"
+msgstr "Il messaggio di ringraziamento offline "
+
+msgid "settings_tab_auth"
+msgstr "L'attivazione del chat "
+
+msgid "settings_tab_auth2"
+msgstr "La registrazione e l'attivazione di chat "
+
+msgid "settings_personal_key"
+msgstr "La chiave personale "
+
+msgid "settings_personal_key_desc"
+msgstr "Faccia attenzione, questo chiave debbe essere identico alla chiave nel pannello d'amministratore del sito  "
+
+msgid "settings_auth_email"
+msgstr "Il nome d'usuario (E-mail)"
+
+msgid "settings_auth_password1"
+msgstr "La parola dell'accesso "
+
+msgid "settings_auth_password2"
+msgstr "La confermazione di parola dell'accesso "
+
+msgid "settings_auth_register_btn"
+msgstr "La registrazione e l'attivazione "
+
+msgid "settings_auth_login_btn"
+msgstr "Entrare "
+
+msgid "settings_existing_user"
+msgstr "L'usuario esiste"
+
+msgid "settings_new_user"
+msgstr "L'usuario nuovo"
+
+msgid "answer_server_not_answer"
+msgstr "Non è riuscito d'abilitarsi al server "
+
+msgid "answer_incorrect_url"
+msgstr "Il dominio è sbagliato "
+
+msgid "answer_incorrect_data"
+msgstr "Il modulo è riempito impropriamente "
+
+msgid "answer_incorrect_login_or_password"
+msgstr "Il nome dell'usuario o la parola d'accesso sono impropri"
+
+msgid "answer_user_not_found"
+msgstr "Il nome dell'usuario non è trovato "
+
+msgid "answer_this_username_busy"
+msgstr "Il nome dell'usuario è impedito o sbagliato"
+
+msgid "answer_login_ok"
+msgstr "La entrata è fortunata "
+
+msgid "settings_tab_notification"
+msgstr "La spedizione dei online ed offline-avvisi "
+
+msgid "settings_email_for_offline_msg"
+msgstr "La spedizione degli messaggi \"offline\" a questo email "
+
+msgid "settings_email_for_first_msg"
+msgstr "Spedire l'avviso a questo email dopo il cominciamento del chat nuovo"
+
+msgid "test_mail"
+msgstr "Il test "
+
+msgid "mail_is_empty"
+msgstr "Per  favore, inserisca qualsiasi indirizzo di posta elettronica. Questa funzione non viene usata senza l'indirizzo della posta elettronica.  "
+
+msgid "test_mail_was_successfully"
+msgstr "E-mail è stato mandato con successo! Per favore, accerti la sua casella postale. "
+
+msgid "test_mail_was_not_sent"
+msgstr "<forte> La lettera elettronica non è stata mandata </forte><br /> Le ragioni possibili: <br />- l'indirizzo della posta elettronica è stato inserito impropriamente o <br /> - la funzione di posta()  non è trovata o non è configurata sul server/hosting. <br /> <forte> Accerti la configurazione del server postale. </forte>"
+
+msgid "subject_offline_message"
+msgstr "Gli chat - il nuovo messaggio offline "
+
+msgid "subject_email_for_first_msg"
+msgstr "Gli chat - il nuovo chat è stato cominciato "
+
+msgid "user_ip"
+msgstr "L'IP del visitatore "
+
+msgid "user_message"
+msgstr "Il messaggio di visitatore "
+
+msgid "user_message_page"
+msgstr "Il referrer di URL-indirizzo "
+
+msgid "close"
+msgstr "nascondere questo messaggio "
+
+msgid "settings_smtp"
+msgstr "Le impostazioni della posta/le impostazioni SMTP "
+
+msgid "send_mail_with"
+msgstr "La rimunerazione degli avvisi per mezzo di posta elettronica, usando uno degli tre metodi: "
+
+msgid "with_wpchatcom_service"
+msgstr "Il servizio wp-chat.com "
+
+msgid "with_server_service"
+msgstr "Le risorse di sito "
+
+msgid "with_own_smtp_service"
+msgstr "il smtp-server "
+
+msgid "test_smtp"
+msgstr "Il test SMTP "
+
+msgid "settings_smtp_host"
+msgstr "L'indirizzo del server "
+
+msgid "settings_smtp_user"
+msgstr "Il nome d'usuario "
+
+msgid "settings_smtp_pass"
+msgstr "La parola dell'accesso "
+
+msgid "settings_smtp_port"
+msgstr "La porta "
+
+msgid "smtp_test_was_successfully"
+msgstr "Il test SMTP è superato con successo "
+
+msgid "notification_email_empty"
+msgstr "\"Gli avvisi postali\" sono vuoti, per favore, riempia questi riquadri "
+
+msgid "desc_mail_notification"
+msgstr "Per disabilitare la spedizione dei messaggi - sempicemente distacchi l' indirizzo della posta elettronica  dallo riquadro corrispondente"
+
+msgid "website_smtp_desc"
+msgstr "Gli messaggi di posta elettronica saranno spediti attraverso questo sito, usando il funzionale WordPress"
+
+msgid "wpchat_smtp_desc"
+msgstr "La spedizione dei Email messaggi attraverso il servizio online wp-chat.com vale la pena, solo se il convogliamento degli mail-messaggi ad opera di hosting/server dato non è inaccessibile. È tenuto presente il Suo server/hosting postale attuale. "
+
+msgid "info_smtp_desc"
+msgstr "Tutti gli messaggi della posta elettronica saranno spediti attraverso la casella postale indicata. Lei può ricevere gli dati d'impostazione del SMTP nel pannello di suo hosting o semplicemente nè preghi dal suo webmaestro"
+
+msgid "method_1"
+msgstr "Il metodo 1 "
+
+msgid "method_2"
+msgstr "Il metodo 2"
+
+msgid "method_3"
+msgstr "Il metodo 3"
+
+msgid "advanced_mail_settings"
+msgstr "Le impostazioni estensive della spedizione di posta "
+
+msgid "title_page_post_setting"
+msgstr "La finestra di chat nelle iscrizioni e sulle pagine "
+
+msgid "pps_access_view"
+msgstr "La visibilità dalla finestra del chat al"
+
+msgid "pps_none"
+msgstr "=-scelga-H100"
+
+msgid "pps_category"
+msgstr "Le categorie "
+
+msgid "pps_post_page"
+msgstr "Le Iscrizioni/sulla Pagina "
+
+msgid "pps_main"
+msgstr "Sulla Pagina Sostanziale "
+
+msgid "pps_category_name"
+msgstr "Il  nome della categoria "
+
+msgid "pps_category_posts"
+msgstr "La iscrizione nella categoria "
+
+msgid "pps_deny"
+msgstr "Proibire"
+
+msgid "pps_allow"
+msgstr "Permettere "
+
+msgid "pps_page_post_name"
+msgstr "Il titolo della iscrizione/della pagine "
+
+msgid "pps_type"
+msgstr "Il tipo"
+
+msgid "pps_show_main"
+msgstr "La pagina principale"
+
+msgid "pps_yes"
+msgstr "Sì"
+
+msgid "pps_no"
+msgstr "No "
+
+msgid "save_visibility_button"
+msgstr "Salvare le impostazioni di visibilità"
+
+msgid "chat_signatures"
+msgstr "Le firme del chat "
+
+msgid "open_administration_area"
+msgstr "La entrata allo pannello di controllo con privilegi dell'amministratore "
+
+msgid "connection_error"
+msgstr "La errore di connessione a server secure.wp-chat.com "
+
+msgid "popup_chat_automatically"
+msgstr "L'apertura automatica della finestra di chat "
+
+msgid "delay"
+msgstr "L'indugio "
+
+msgid "chat_timezone"
+msgstr "Il fuso orario del chat "
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "(Il fuso orario di visitatore) automatico "
+
+msgid "select"
+msgstr "Scelga "
+
+msgid "mod_security_installed"
+msgstr "Non è riuscito di mettersi in contatto con il chat, imperciocche il modulo di protezione <a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a> è installato al server. Per la eliminazione di questo problema effettui le azioni dal <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>le istruzioni</a>"
+
+msgid "cloudflare_site"
+msgstr "Non è riuscito di mettersi in contatto con il chat, imperciocche il servizio <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a>. Sintonizzi Firewall CloudFlare, come è specificato nel <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>инструкции</a>"
+
+msgid "sec"
+msgstr "gli secondi "
+
+msgid "position"
+msgstr "la posizione "
+
+msgid "status"
+msgstr "il status "
+
+msgid "admin_signature"
+msgstr "L'Amministratore "
+
+msgid "user_signature"
+msgstr "Lei "
+
+msgid "hello_message"
+msgstr "Salve. Qual'è la sua domanda? "
+
+msgid "panel_title"
+msgstr "Il chat con noi "
+
+msgid "enter_text_placeholder"
+msgstr "Inserisca il Suo messaggio…"
+
+msgid "btn_finish_text"
+msgstr "Portare a compimento "
+
+msgid "thank_message"
+msgstr ""
+"Le ringraziamo per l'impiego di Live Chat. Noi vorremmo perfezionare il servizio per Lei, ma noi abbiamo bisogno del Suo appoggio a ciò. Per favore, pianti il Suo breviloquio del nostro servizio. Per favore, prema il pulsante \"Chiudere\", e poi racconti a noi, come e che cosa noi abbiamo fatto impropriamente o scomodamente. "
+
+msgid "offline_message"
+msgstr "Noi saremo felici di ricevere il Suo messaggio, nonostante che adesso noi siamo offline. Per favore, lasci gli Suoi dati del contatto, per esempio l'email, il numero di telefono, nonché il Suo messaggio per noi. Noi cercheremo di mettersi in contatto con Lei il più presto possibile. "
+
+msgid "email_label"
+msgstr "L'indirizzo di posta elettronica "
+
+msgid "name_label"
+msgstr "Il nome "
+
+msgid "message_label"
+msgstr "Il messaggio "
+
+msgid "send_email"
+msgstr "Spedire il messaggio "
+
+msgid "offline_thank_message"
+msgstr "Il Suo messaggio è spedito. Grazie"

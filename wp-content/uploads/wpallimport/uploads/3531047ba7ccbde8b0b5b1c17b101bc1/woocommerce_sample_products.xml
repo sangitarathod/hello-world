@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<post_title><![CDATA[High Heel Shoe]]></post_title>
+		<post_name><![CDATA[high-heel-shoe]]></post_name>
+		<post_status><![CDATA[publish]]></post_status>
+		<sku><![CDATA[12345]]></sku>
+		<downloadable><![CDATA[no]]></downloadable>
+		<virtual><![CDATA[no]]></virtual>
+		<visibility><![CDATA[visible]]></visibility>
+		<stock><![CDATA[]]></stock>
+		<stock_status><![CDATA[instock]]></stock_status>
+		<backorders><![CDATA[no]]></backorders>
+		<manage_stock><![CDATA[no]]></manage_stock>
+		<regular_price><![CDATA[]]></regular_price>
+		<sale_price><![CDATA[]]></sale_price>
+		<weight><![CDATA[]]></weight>
+		<length><![CDATA[]]></length>
+		<width><![CDATA[]]></width>
+		<height><![CDATA[]]></height>
+		<tax_status><![CDATA[taxable]]></tax_status>
+		<tax_class><![CDATA[]]></tax_class>
+		<taxproduct_type><![CDATA[variable]]></taxproduct_type>
+		<taxproduct_cat><![CDATA[Shoes]]></taxproduct_cat>
+		<taxproduct_tag><![CDATA[Shoes]]></taxproduct_tag>
+		<taxproduct_brand><![CDATA[Fancy Heels]]></taxproduct_brand>
+		<attributecolor><![CDATA[Black | White]]></attributecolor>
+		<attribute_datacolor><![CDATA[0|1|1]]></attribute_datacolor>
+		<attributesize><![CDATA[US 8 | US 8.5 | US 9 | US 9.5 | US 10 | US 10.5]]></attributesize>
+		<attribute_datasize><![CDATA[0|1|1]]></attribute_datasize>
+	</node>
+	<node>
+		<post_title><![CDATA[Running Shoe]]></post_title>
+		<post_name><![CDATA[running-shoe]]></post_name>
+		<post_status><![CDATA[publish]]></post_status>
+		<sku><![CDATA[12346]]></sku>
+		<downloadable><![CDATA[no]]></downloadable>
+		<virtual><![CDATA[no]]></virtual>
+		<visibility><![CDATA[visible]]></visibility>
+		<stock><![CDATA[]]></stock>
+		<stock_status><![CDATA[instock]]></stock_status>
+		<backorders><![CDATA[no]]></backorders>
+		<manage_stock><![CDATA[no]]></manage_stock>
+		<regular_price><![CDATA[]]></regular_price>
+		<sale_price><![CDATA[]]></sale_price>
+		<weight><![CDATA[]]></weight>
+		<length><![CDATA[]]></length>
+		<width><![CDATA[]]></width>
+		<height><![CDATA[]]></height>
+		<tax_status><![CDATA[taxable]]></tax_status>
+		<tax_class><![CDATA[]]></tax_class>
+		<taxproduct_type><![CDATA[variable]]></taxproduct_type>
+		<taxproduct_cat><![CDATA[Shoes]]></taxproduct_cat>
+		<taxproduct_tag><![CDATA[Shoes]]></taxproduct_tag>
+		<taxproduct_brand><![CDATA[Sportly>Sportly Child]]></taxproduct_brand>
+		<attributecolor><![CDATA[Black | Red | Blue]]></attributecolor>
+		<attribute_datacolor><![CDATA[0|1|1]]></attribute_datacolor>
+		<attributesize><![CDATA[US 7.5 | US 8 | US 8.5 | US 9 | US 9.5 | US 10 | US 10.5 | US 11 | US 11.5 | US 12]]></attributesize>
+		<attribute_datasize><![CDATA[0|1|1]]></attribute_datasize>
+	</node>
+</data>

@@ -1,0 +1,7 @@
+id,product_title,product_sku,product_stock,product_wholsale_price,product_suggested_retail,product_color,product_memory,product_brand
+1777,"product 2",,,,,,,
+1654,"Running Shoe",12346,3,,,,128mb,
+172,"High Heel Shoe",12345,,2000,,,128mb,
+86,"Product 1",t-shirt1,20,600,,"Blue,Green","128mb,128mb","A grade"
+1742,iphone7,var_sku2,6,600,,,,
+1741,iphone7,var_sku1,3,500,,,,

@@ -1,0 +1,13 @@
+product_title,product_sku,product_stock,product_wholsale_price,product_suggested_retail,product_color,product_memory,product_brand
+p3,,,,,,,
+p3,var_sku1,10,500,,,,
+p3,sku3,,30000,32000,"rosy pink",,
+p2,sku2,,6000,6600,White,,
+p1,sku1,,5000,5400,Red,,
+"Running Shoe",12346,3,,,,,
+"High Heel Shoe",12345,4,2000,,,,
+"Product 2 - Blue",bt1,,500,,,,
+"Product 2 - Green",gt1,,500,,,,
+"Product 2 - White",wt1,,500,,,,
+"Product 2",t-shirt2,19,,,,,
+"Product 1",t-shirt1,18,600,,,,

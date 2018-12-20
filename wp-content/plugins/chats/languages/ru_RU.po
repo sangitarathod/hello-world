@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-12-02 14:06+0400\n"
+"PO-Revision-Date: 2017-06-09 21:22+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Чаты"
+
+msgid "settings_tab_color"
+msgstr "Интерфейс чата"
+
+msgid "settings_width"
+msgstr "Ширина"
+
+msgid "settings_panel_background"
+msgstr "Цвет фона заголовка"
+
+msgid "settings_panel_border_color"
+msgstr "Цвет рамки чата"
+
+msgid "settings_body_background"
+msgstr "Цвет фона сообщения"
+
+msgid "settings_btn_finish_background"
+msgstr "Цвет фона кнопки \"Завершить\""
+
+msgid "settings_btn_finish_color"
+msgstr "Цвет текста кнопки \"Завершить\""
+
+msgid "settings_btn_finish_border_color"
+msgstr "Цвет рамки кнопки \"Завершить\""
+
+msgid "settings_btn_expand_background"
+msgstr "Цвет фона кнопки \"раскрытия\""
+
+msgid "settings_admin_signature_color"
+msgstr "Цвет кнопки подписи админа"
+
+msgid "settings_admin_text_color"
+msgstr "Цвет текста сообщения админа"
+
+msgid "settings_user_signature_color"
+msgstr "Цвет текста подписи посетителя"
+
+msgid "settings_user_text_color"
+msgstr "Цвет текста сообщения пользователя"
+
+msgid "settings_time_color"
+msgstr "Цвет метки времени"
+
+msgid "settings_message_border_color"
+msgstr "Цвет рамки сообщения"
+
+msgid "settings_write_panel_background"
+msgstr "Цвет фона панели"
+
+msgid "settings_write_area_background"
+msgstr "Цвет фона поля ввода сообщения"
+
+msgid "settings_write_area_color"
+msgstr "Цвет текста в поле ввода сообщения"
+
+msgid "settings_show_avatars"
+msgstr "Показывать аватарки?"
+
+msgid "settings_admin_avatar"
+msgstr "Аватарка админа"
+
+msgid "settings_user_avatar"
+msgstr "Аватрака посетителя"
+
+msgid "settings_tab_template"
+msgstr "Раширенные настройки"
+
+msgid "settings_position"
+msgstr "Позиция"
+
+msgid "settings_position_left"
+msgstr "Слева"
+
+msgid "settings_position_right"
+msgstr "Справа"
+
+msgid "settings_status"
+msgstr "Статус чата"
+
+msgid "settings_status_1"
+msgstr "Онлайн"
+
+msgid "settings_status_2"
+msgstr "Скрытый"
+
+msgid "settings_status_3"
+msgstr "Офлайн"
+
+msgid "settings_tab_text"
+msgstr "Тексты чата"
+
+msgid "settings_admin_signature"
+msgstr "Подпись администратора"
+
+msgid "settings_user_signature"
+msgstr "Подпись посетителя"
+
+msgid "settings_hello_message"
+msgstr "Приветственное сообщение"
+
+msgid "settings_panel_title"
+msgstr "Заголовок панели"
+
+msgid "settings_enter_text_placeholder"
+msgstr "Подсказка для поля ввода"
+
+msgid "settings_btn_finish_text"
+msgstr "Название кнопки \"Завершить\""
+
+msgid "settings_thank_message"
+msgstr "Благодарственное сообщение"
+
+msgid "settings_offline_message"
+msgstr "\"Офлайн\" сообщение"
+
+msgid "settings_email_label"
+msgstr "Адрес электронной почты"
+
+msgid "settings_name_label"
+msgstr "Имя"
+
+msgid "settings_message_label"
+msgstr "Подпись сообщения"
+
+msgid "settings_send_email"
+msgstr "Название кнопки \"Отправить письмо\""
+
+msgid "settings_offline_thank_message"
+msgstr "Офлайн благодарственное сообщение"
+
+msgid "settings_tab_auth"
+msgstr "Активация чата"
+
+msgid "settings_tab_auth2"
+msgstr "Регистрация и активация чата"
+
+msgid "settings_personal_key"
+msgstr "Персональный ключ"
+
+msgid "settings_personal_key_desc"
+msgstr "Будьте осторожны, этот ключ должен быть таким же, как и в админ-панели сайта"
+
+msgid "settings_auth_email"
+msgstr "Имя пользователя<br>(E-mail)"
+
+msgid "settings_auth_password1"
+msgstr "Пароль"
+
+msgid "settings_auth_password2"
+msgstr "Подтверждение пароля"
+
+msgid "settings_auth_register_btn"
+msgstr "Регистрация и активация"
+
+msgid "settings_auth_login_btn"
+msgstr "Войти"
+
+msgid "settings_existing_user"
+msgstr "Пользователь существует"
+
+msgid "settings_new_user"
+msgstr "Новый пользователь"
+
+msgid "answer_server_not_answer"
+msgstr "Не удалось подключиться к серверу"
+
+msgid "answer_incorrect_url"
+msgstr "Неверный домен"
+
+msgid "answer_incorrect_data"
+msgstr "Форма заполнена неверно"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "Неправильные имя пользователя или пароль"
+
+msgid "answer_user_not_found"
+msgstr "Имя пользователя не найдено"
+
+msgid "answer_this_username_busy"
+msgstr "Имя пользователя занято или неверно"
+
+msgid "answer_login_ok"
+msgstr "Успешный вход"
+
+msgid "settings_tab_notification"
+msgstr "Отправка онлайн и оффлайн-уведомлений"
+
+msgid "settings_email_for_offline_msg"
+msgstr "Отправка \"офлайн\" сообщений на этот email"
+
+msgid "settings_email_for_first_msg"
+msgstr "После начала нового чата слать уведомление на этот email"
+
+msgid "test_mail"
+msgstr "Тест"
+
+msgid "mail_is_empty"
+msgstr "Пожалуйста, введите какой-либо адрес электронной почты. Без адреса электронной почты эта функция не используется."
+
+msgid "test_mail_was_successfully"
+msgstr "E-mail был отправлен успешно! Пожалуйста, проверьте свой почтовый ящик."
+
+msgid "test_mail_was_not_sent"
+msgstr "<strong> E-mail не был отправлен</strong><br /> Возможные причины:<br />- адрес электронной почты был введен неправильно или <br /> - функция mail() на сервере/хостинге не найдена или не сконфигурирована. <br /> <strong>Проверьте конфигурацию почтового сервера.</strong>"
+
+msgid "subject_offline_message"
+msgstr "Чаты - новое офлайн сообщение"
+
+msgid "subject_email_for_first_msg"
+msgstr "Чаты - новый чат был начат"
+
+msgid "user_ip"
+msgstr "IP посетителя"
+
+msgid "user_message"
+msgstr "Сообщение посетителя"
+
+msgid "user_message_page"
+msgstr "Реферер URL-адрес"
+
+msgid "close"
+msgstr "скрыть это сообщение"
+
+msgid "settings_smtp"
+msgstr "Настройки почты/настройки SMTP"
+
+msgid "send_mail_with"
+msgstr "Отправка уведомлений по электронной почте, используя один из трех методов:"
+
+msgid "with_wpchatcom_service"
+msgstr "сервис wp-chat.com"
+
+msgid "with_server_service"
+msgstr "средствами сайта"
+
+msgid "with_own_smtp_service"
+msgstr "smtp-сервер"
+
+msgid "test_smtp"
+msgstr "Тест SMTP"
+
+msgid "settings_smtp_host"
+msgstr "Адрес сервера"
+
+msgid "settings_smtp_user"
+msgstr "Имя пользователя"
+
+msgid "settings_smtp_pass"
+msgstr "Пароль"
+
+msgid "settings_smtp_port"
+msgstr "Порт"
+
+msgid "smtp_test_was_successfully"
+msgstr "Тест SMTP пройден успешно"
+
+msgid "notification_email_empty"
+msgstr "\"Почтовые уведомления\" пустые, пожалуйста, заполните эти поля"
+
+msgid "desc_mail_notification"
+msgstr "Чтобы отключить отправку уведомлений - просто удалите адрес электронной почты из соответствующего поля"
+
+msgid "website_smtp_desc"
+msgstr "Сообщения электронной почты будут отправлены через этот сайт, используя функционал WordPress"
+
+msgid "wpchat_smtp_desc"
+msgstr "Отправка Email сообщений через онлайн сервис wp-chat.com имеет смысл, только если доставка mail-сообщений с помощью данного хостинга/сервера не доступна. Имеется ввиду Ваш текущий тестовый сервер/хостинг."
+
+msgid "info_smtp_desc"
+msgstr "Все сообщения электронной почты будут отправляться через указанный почтовый ящик. Вы можете получить данные настройки SMTP в панели вашего хостинга или просто попросите вашего вебмастера"
+
+msgid "method_1"
+msgstr "Метод 1"
+
+msgid "method_2"
+msgstr "Метод 2"
+
+msgid "method_3"
+msgstr "Метод 3"
+
+msgid "advanced_mail_settings"
+msgstr "Расширенные натройки отправки почты"
+
+msgid "title_page_post_setting"
+msgstr "Окно чата в записях и на страницах"
+
+msgid "pps_access_view"
+msgstr "Видимость из окна чата в"
+
+msgid "pps_none"
+msgstr "-выбирите-"
+
+msgid "pps_category"
+msgstr "Категории"
+
+msgid "pps_post_page"
+msgstr "Записи/Странице"
+
+msgid "pps_main"
+msgstr "Основной странице"
+
+msgid "pps_category_name"
+msgstr "Название категории"
+
+msgid "pps_category_posts"
+msgstr "Запись в категории"
+
+msgid "pps_deny"
+msgstr "Запретить"
+
+msgid "pps_allow"
+msgstr "Разрешить"
+
+msgid "pps_page_post_name"
+msgstr "Заголовок записи/страницы"
+
+msgid "pps_type"
+msgstr "Тип"
+
+msgid "pps_show_main"
+msgstr "Главная страница"
+
+msgid "pps_yes"
+msgstr "Да"
+
+msgid "pps_no"
+msgstr "Нет"
+
+msgid "save_visibility_button"
+msgstr "Сохранить настройки видимости"
+
+msgid "chat_signatures"
+msgstr "Подписи чата"
+
+msgid "open_administration_area"
+msgstr "Вход в админку"
+
+msgid "connection_error"
+msgstr "Ошибка соединения с сервером secure.wp-chat.com."
+
+msgid "popup_chat_automatically"
+msgstr "Авто-открытие окна чата"
+
+msgid "delay"
+msgstr "Задержка"
+
+msgid "chat_timezone"
+msgstr "Часовой пояс чата"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "Автоматический(часовой пояс посетителя)"
+
+msgid "select"
+msgstr "Выберите"
+
+msgid "mod_security_installed"
+msgstr "Не удалось связаться с чатом, потому что на сервере установлен модуль защиты <a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a>. Для устранения этой проблемы выполните действия из <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>инструкции</a>"
+
+msgid "cloudflare_site"
+msgstr "Не удалось связаться с чатом, потому что используется сервис <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a>. Настройте Firewall CloudFlare как указано в <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>инструкции</a>"
+
+msgid "sec"
+msgstr "сек"
+
+msgid "position"
+msgstr "позиция"
+
+msgid "status"
+msgstr "статус"
+
+msgid "admin_signature"
+msgstr "Админ"
+
+msgid "user_signature"
+msgstr "Вы"
+
+msgid "hello_message"
+msgstr "Здравствуйте. У вас есть вопрос?"
+
+msgid "panel_title"
+msgstr "Чат с нами"
+
+msgid "enter_text_placeholder"
+msgstr "Введите ваше сообщение..."
+
+msgid "btn_finish_text"
+msgstr "Завершить"
+
+msgid "thank_message"
+msgstr "Благодарим Вас за использование Live Chat. Мы бы хотели улучшить этот сервис для Вас, но для этого необходима Ваша поддержка. Пожалуйста, оставьте свой краткий обзор о нашем сервисе.  Пожалуйста, нажмите кнопку \"Закрыть\", а затем расскажите нам, как и что мы сделали неправильно или неудобно."
+
+msgid "offline_message"
+msgstr "Мы будем рады принять Ваше сообщение, несмотря на то, что сейчас мы оффлайн. Пожалуйста, оставьте свои контактные данные, например эмайл, телефон, а также Ваше сообщение для нас. Мы постараемся как можно скорее связаться с Вами."
+
+msgid "email_label"
+msgstr "Email"
+
+msgid "name_label"
+msgstr "Имя"
+
+msgid "message_label"
+msgstr "Сообщение"
+
+msgid "send_email"
+msgstr "Отправить сообщение"
+
+msgid "offline_thank_message"
+msgstr "Ваше сообщение отправлено. Спасибо"
+
+msgid "Integration method"
+msgstr "Метод интеграции"
+
+msgid "internal"
+msgstr "внутренний"
+
+msgid "external"
+msgstr "внешний"
+
+msgid "<b>Unable to get data from the server.</b><br>Try to change the integration method to &#34;external&#34;."
+msgstr "<b>Не удалось получить данные с сервера.</b><br> Попробуйте поменять метод интеграции на \"внешний\"."
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "Несколько способов добавить в интерфейс элемент открытия и закрытия чат-бокса:"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "Добавить bookmark-ссылку: \"%s1\" - для открытия чат-бокса, \"%s2\" - для закрытия или просто \"%s3\"(который содержит оба варианта)."
+
+#: chats.php:2076
+msgid "For example"
+msgstr "Например"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "Добавить ссылку, как один из пунктов меню сайта:"
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "выбрав страницу \"%s1\", \"%s2\" или \"%s3\" из списка \"%s4\""
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "Разместив виджет \"WPAdm Chat Control\". В этом случае существует возможность настроить внешний вид виджета"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "Чат"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "Тип"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "Кнопка"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "Ссылка"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "Текст"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Class"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "Цвет"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "Цвет фона"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "Скругление рамки"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "Цвет тени"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "Размер тени"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "При наведении"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "При разработке шаблона сайта воспользоваться js-методами %s1, %s2 и %s3"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "Используйте shortcode $, чтобы вставить кнопку или ссылку в шаблон(тему) вашего сайта"
+
+msgid "Do not forget"
+msgstr "Не забудьте"
+
+msgid "Activate Chat"
+msgstr "Активировать чат"
+
+msgid "Show status indicator"
+msgstr "Показать индикатор статуса"
+
+#: free vs pro
+msgid "Service"
+msgstr "Услуга"
+
+msgid "Pro License"
+msgstr "Pro лицензия"
+
+msgid "Free License"
+msgstr "Free лицензия"
+
+msgid "Custom visitor interface"
+msgstr "Настраиваемый многоязычный интерфейс "
+
+msgid "Visitor Multilingual interface"
+msgstr "Многоязычный интерфейс посетителей"
+
+msgid "Administrator Multilingual interface"
+msgstr "Многоязычный интерфейс администратора"
+
+msgid "Sending of chat messages"
+msgstr "Отправка сообщений чата"
+
+msgid "Unlimited chat queries and requests"
+msgstr "Неограниченное количество чат-запросов и заявок"
+
+msgid "Simultaneous chats"
+msgstr "Кол-во одновременных чатов"
+
+msgid "Unlimited"
+msgstr "Безлимит"
+
+msgid "Chat Operators"
+msgstr "Операторы Чатов "
+
+msgid "Priority of incoming messages for each operator"
+msgstr "Приоритет входящих сообщений для каждого оператора"
+
+msgid "The number of simultaneous chats for each operator can be set"
+msgstr "Количество одновременных чатов для каждого оператора может быть указано"
+
+msgid "Statistic about visitor"
+msgstr "Статистика о посетителя"
+
+msgid "Browser"
+msgstr "Браузер"
+
+msgid "Operating system"
+msgstr "Операционная система"
+
+msgid "User on world map"
+msgstr "Пользователь на карте мира"
+
+msgid "Detailed Statistics"
+msgstr "Детальная статистика"
+
+msgid "Chat Archive messages"
+msgstr "Архив сообщений чата"
+
+msgid "Chat Offline messages"
+msgstr "Чат оффлайн сообщения"
+
+msgid "Chat Auto-Answer messages"
+msgstr "Чат Авто-Ответ сообщения"
+
+msgid "Request for visitor's email and name"
+msgstr "Спрашивать имя и email посетителя"
+
+msgid "Chat Mobile App"
+msgstr "Чат мобильное приложение"
+
+msgid "download from Google Play"
+msgstr "(скачивание с Google Play)"
+
+msgid "Chat Chrome App"
+msgstr "Чат приложение для Chrome"
+
+msgid "download from Google Chrome Web Store"
+msgstr "скачивается с Google Chrome Web Store"
+
+msgid "Unlimited websites"
+msgstr "Неограниченное веб-сайтов"
+
+msgid "Unlimited number of domains"
+msgstr "Неограниченное количество доменов"
+
+msgid "All the chats messages are <strong>not&nbsp;spread&nbsp;equally</strong> between admin and operators"
+msgstr "Все чат-сообщения <strong>не&nbsp;распределяются&nbsp;равномерно</strong> между администратором и операторами"
+
+msgid "Remove copyright notice \"Powered by\""
+msgstr "Удаление авторского копирайта \"Powered by\""
+
+msgid "Real time Statistics"
+msgstr "Статистика в режиме реального времени"
+
+msgid "Visitors online statistics"
+msgstr "статистика онлайн посетителей"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "City"
+msgstr "Город"
+
+msgid "User (customer) detail info can be saved during chat"
+msgstr "Пользователь (клиент) может указать подробную информацию о собеседнике и сохранить во время общения"
+
+msgid "First and last name, company, address, email, phone, skype, social data like Facebook, Twitter, Google+"
+msgstr "(Имя и фамилия, название фирмы, адрес, email, телефон, skype, данные социальных сетей, таких как Facebook, Twitter, Google+)"
+
+msgid "FREE vs PRO"
+msgstr "FREE vs PRO"
+
+msgid "Get PRO"
+msgstr "Get PRO"

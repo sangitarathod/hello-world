@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-11-30 16:04+0400\n"
+"PO-Revision-Date: 2017-02-28 22:42+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Chats"
+
+msgid "settings_tab_color"
+msgstr "Chat interface"
+
+msgid "settings_width"
+msgstr "Breedte"
+
+msgid "settings_panel_background"
+msgstr "Titel panel achtergrondkleur"
+
+msgid "settings_panel_border_color"
+msgstr "De achtergrondkleur van de rand van de chat"
+
+msgid "settings_body_background"
+msgstr "De achtergrondkleur van de achtergrond van het bericht"
+
+msgid "settings_btn_finish_background"
+msgstr "De achtergrondkleur van de knop 'Voltooid'"
+
+msgid "settings_btn_finish_color"
+msgstr "De kleur van de knop tekst 'Voltooid'"
+
+msgid "settings_btn_finish_border_color"
+msgstr "De kleur van de knop rand 'Voltooid'"
+
+msgid "settings_btn_expand_background"
+msgstr "De achtergrondkleur van de knoppen 'bekendmaking'"
+
+msgid "settings_admin_signature_color"
+msgstr "De kleur van de admin handtekening knop "
+
+msgid "settings_admin_text_color"
+msgstr "De kleur van het admin tekstbericht "
+
+msgid "settings_user_signature_color"
+msgstr "De kleur van de bezoeker bijschrifttekst "
+
+msgid "settings_user_text_color"
+msgstr "Gebruiker bericht tekstkleur van de en van de "
+
+msgid "settings_time_color"
+msgstr "Bericht tijd kleur"
+
+msgid "settings_message_border_color"
+msgstr "Message randkleur"
+
+msgid "settings_write_panel_background"
+msgstr "De achtergrondkleur van het paneel"
+
+msgid "settings_write_area_background"
+msgstr "De achtergrondkleur van het invoerveld bericht"
+
+msgid "settings_write_area_color"
+msgstr "De kleur van de tekst in het bericht invoerveld"
+
+msgid "settings_show_avatars"
+msgstr "Toon avatars?"
+
+msgid "settings_admin_avatar"
+msgstr "Avatar admin"
+
+msgid "settings_user_avatar"
+msgstr "Avatar bezoeker"
+
+msgid "settings_tab_template"
+msgstr "Geavanceerde instellingen"
+
+msgid "settings_position"
+msgstr "Positie"
+
+msgid "settings_position_left"
+msgstr "Links"
+
+msgid "settings_position_right"
+msgstr "Rechts"
+
+msgid "settings_status"
+msgstr "Chat status"
+
+msgid "settings_status_1"
+msgstr "Online"
+
+msgid "settings_status_2"
+msgstr "Verborgen"
+
+msgid "settings_status_3"
+msgstr "Offline"
+
+msgid "settings_tab_text"
+msgstr "Chat tekst"
+
+msgid "settings_admin_signature"
+msgstr "Admin handtekening "
+
+msgid "settings_user_signature"
+msgstr "Bezoeker handtekening "
+
+msgid "settings_hello_message"
+msgstr "Welkomst bericht"
+
+msgid "settings_panel_title"
+msgstr "Kop paneel"
+
+msgid "settings_enter_text_placeholder"
+msgstr "Tip voor invoerveld"
+
+msgid "settings_btn_finish_text"
+msgstr "De naam van de knop  'Voltooid'"
+
+msgid "settings_thank_message"
+msgstr "Een dankbericht"
+
+msgid "settings_offline_message"
+msgstr " 'Offline' bericht"
+
+msgid "settings_email_label"
+msgstr "E-mailadres"
+
+msgid "settings_name_label"
+msgstr "Naam"
+
+msgid "settings_message_label"
+msgstr "De handtekening van het bericht"
+
+msgid "settings_send_email"
+msgstr "De naam van de knop 'Verstuur e-mail'"
+
+msgid "settings_offline_thank_message"
+msgstr "Offline bedankt bericht"
+
+msgid "settings_tab_auth"
+msgstr "Chat activatie"
+
+msgid "settings_tab_auth2"
+msgstr "Chat registratie en activering"
+
+msgid "settings_personal_key"
+msgstr "Persoonlijke sleutel"
+
+msgid "settings_personal_key_desc"
+msgstr "Wees voorzichtig, deze sleutel moet hetzelfde als in de admin panel van site"
+
+msgid "settings_auth_email"
+msgstr "Gebruikersnaam (E-mail)"
+
+msgid "settings_auth_password1"
+msgstr "Wachtword"
+
+msgid "settings_auth_password2"
+msgstr "Bevestig wachtwoord"
+
+msgid "settings_auth_register_btn"
+msgstr "Aanmelden en activeren"
+
+msgid "settings_auth_login_btn"
+msgstr "Ingaan"
+
+msgid "settings_existing_user"
+msgstr "Gebruiker bestaat"
+
+msgid "settings_new_user"
+msgstr "Nieuw gebruiker"
+
+msgid "answer_server_not_answer"
+msgstr "Kan geen verbinding maken met server"
+
+msgid "answer_incorrect_url"
+msgstr "Domein is ongeldig"
+
+msgid "answer_incorrect_data"
+msgstr "Vorm is onjuist ingediend"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "Onjuiste gebruikersnaam of wachtwoord"
+
+msgid "answer_user_not_found"
+msgstr "Gebruikersnaam niet gevonden"
+
+msgid "answer_this_username_busy"
+msgstr "Gebruikersnaam is bezet of onjuist"
+
+msgid "answer_login_ok"
+msgstr "Succesvolle login"
+
+msgid "settings_tab_notification"
+msgstr "Verzending van online off line meldingen"
+
+msgid "settings_email_for_offline_msg"
+msgstr "Offline' berichten verzenden naar deze e-mail"
+
+msgid "settings_email_for_first_msg"
+msgstr "Na de start van de nieuwe chat verzenden bericht naar dit e-mail"
+
+msgid "test_mail"
+msgstr "Test"
+
+msgid "mail_is_empty"
+msgstr "Neem aub enkele e-mailadres. Zonder e-mailadres deze functie niet in gebruik is."
+
+msgid "test_mail_was_successfully"
+msgstr "E-mail is succesvol verstuurd! Alstublieft, controleer uw mailbox."
+
+msgid "test_mail_was_not_sent"
+msgstr "<Strong> E-mail was niet verzonden</strong><br /><br />Mogelijke redenen:<br />- e-mailadres is onjuist ingevoerd of <br /> -  functie mail ()op uw server/hosting was't gevonden of niet geconfigureerd.<br /> <strong> Controleer uw mailserver configuratie.</ strong>"
+
+msgid "subject_offline_message"
+msgstr "Chats - nieuwe offline bericht"
+
+msgid "subject_email_for_first_msg"
+msgstr "Chats - nieuwe chat begonnen"
+
+msgid "user_ip"
+msgstr "Gebruikers IP"
+
+msgid "user_message"
+msgstr "Bezoekers bericht"
+
+msgid "user_message_page"
+msgstr "Verwijzende URL-adres"
+
+msgid "close"
+msgstr "Dit bericht verbergen"
+
+msgid "settings_smtp"
+msgstr "E-mailinstellingen/SMTP-instellingen"
+
+msgid "send_mail_with"
+msgstr "Verzenden van e-mail berichten met behulp van een van de drie methoden"
+
+msgid "with_wpchatcom_service"
+msgstr "wp-chat.com service"
+
+msgid "with_server_service"
+msgstr "met website middelen"
+
+msgid "with_own_smtp_service"
+msgstr "smtp-server"
+
+msgid "test_smtp"
+msgstr "Test SMTP"
+
+msgid "settings_smtp_host"
+msgstr "SMTP Server"
+
+msgid "settings_smtp_user"
+msgstr "Gebruikersnaam"
+
+msgid "settings_smtp_pass"
+msgstr "Wachtword"
+
+msgid "settings_smtp_port"
+msgstr "Port"
+
+msgid "smtp_test_was_successfully"
+msgstr "Test SMTP was succesvol"
+
+msgid "notification_email_empty"
+msgstr "E-mail meldingen' zijn leeg, vul deze velden"
+
+msgid "desc_mail_notification"
+msgstr "Voor het uitschakelen van het verzenden van meldingen - alleen e-mail adres te verwijderen uit bijbehorende veld"
+
+msgid "website_smtp_desc"
+msgstr "E-mailberichten worden verzonden via deze website, met behulp van de functionaliteit van uw geïnstalleerde WordPress"
+
+msgid "wpchat_smtp_desc"
+msgstr "Verzenden van e-mailberichten via de online service wp-chat.com is zinvol alleen als de levering van e-mailberichten met behulp van de hosting/server niet beschikbaar is. Met bedoeling uw huidige post server/hosting."
+
+msgid "info_smtp_desc"
+msgstr "Alle e-mail berichten worden via het opgegeven mailbox worden gestuurd. U kunt de SMTP-setup data in uw hosting paneel of gewoon vragen uw webmaster"
+
+msgid "method_1"
+msgstr "Method 1"
+
+msgid "method_2"
+msgstr "Method 2"
+
+msgid "method_3"
+msgstr "Method 3"
+
+msgid "advanced_mail_settings"
+msgstr "Geavanceerde instellingen om e-mail te sturen"
+
+msgid "title_page_post_setting"
+msgstr "Het chatvenster in de registers en in de pagina's"
+
+msgid "pps_access_view"
+msgstr "Zicht vanaf het chatvenster"
+
+msgid "pps_none"
+msgstr " -selecteer-"
+
+msgid "pps_category"
+msgstr "Categorie"
+
+msgid "pps_post_page"
+msgstr "Records/pagina"
+
+msgid "pps_main"
+msgstr "Hoofd pagina"
+
+msgid "pps_category_name"
+msgstr "Naam van de categorie"
+
+msgid "pps_category_posts"
+msgstr "Vermelding in de categorie"
+
+msgid "pps_deny"
+msgstr "Verbieden"
+
+msgid "pps_allow"
+msgstr "Toestaan"
+
+msgid "pps_page_post_name"
+msgstr "Post platen/pagina"
+
+msgid "pps_type"
+msgstr "Type"
+
+msgid "pps_show_main"
+msgstr "Hoofd pagina"
+
+msgid "pps_yes"
+msgstr "Ja"
+
+msgid "pps_no"
+msgstr "Nei"
+
+msgid "save_visibility_button"
+msgstr "Zichtbaarheid Instellingen opslaan"
+
+msgid "chat_signatures"
+msgstr "Chat handtekeningen"
+
+msgid "open_administration_area"
+msgstr "Meld u aan bij de admin panel"
+
+msgid "connection_error"
+msgstr "Fout bij het verbinden met de server secure.wp-chat.com."
+
+msgid "popup_chat_automatically"
+msgstr "Auto-ontdekking van het chat venster"
+
+msgid "delay"
+msgstr "Oponthoud"
+
+msgid "chat_timezone"
+msgstr "Chat tijdzone"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "Automatisch (tijdzone bezoeker)"
+
+msgid "select"
+msgstr "Selecteeren"
+
+msgid "mod_security_installed"
+msgstr "Mislukt om te communiceren met de chat, omdat de server heeft een beveiligingsmodule<a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a>. Om dit probleem op te lossen, volgt u de stappen van  <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank> instructies </a>"
+
+msgid "cloudflare_site"
+msgstr "Kan geen contact opnemen met chat, want het gebruik maakt van service<a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a>. Configureren Firewall CloudFlare zoals aangegeven in de <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>instructies</a>"
+
+msgid "sec"
+msgstr "sec"
+
+msgid "position"
+msgstr "positie"
+
+msgid "status"
+msgstr "status"
+
+msgid "admin_signature"
+msgstr "Admin"
+
+msgid "user_signature"
+msgstr "U"
+
+msgid "hello_message"
+msgstr "Goedemiddag! Heeft u een vraag?"
+
+msgid "panel_title"
+msgstr "Chat met ons"
+
+msgid "enter_text_placeholder"
+msgstr "Voer uw bericht..."
+
+msgid "btn_finish_text"
+msgstr "Afsluiten"
+
+msgid "thank_message"
+msgstr "Dank U voor het gebruik van Live Chat. We willen deze service te verbeteren voor U, maar voor dat Uw steun nodig. Laat een beknopt overzicht van onze dienstverlening. Klik op 'Sluit' en vertel ons hoe en wat we verkeerd gedaan of ongemakkelijk."
+
+msgid "offline_message"
+msgstr "We zullen blij zijn om Uw bericht te ontvangen, hoewel zijn, dat wij nu offline. Laat Uw contactgegevens, zoals e-mail, telefoon, en Uw boodschap aan ons. Wij nemen dan zo spoedig mogelijk proberen contact met U opnemen."
+
+msgid "email_label"
+msgstr "Email"
+
+msgid "name_label"
+msgstr "Naam"
+
+msgid "message_label"
+msgstr "Bericht"
+
+msgid "send_email"
+msgstr "Bericht verzenden"
+
+msgid "offline_thank_message"
+msgstr "Uw bericht is verstuurd. Dank U"
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "Verschillende manieren om toe te voegen aan de website-interface een element voor het openen en sluiten van de chat-box:"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "Het toevoegen van bookmark-link: \"%s1\" - voor het openen van de chat-box, \"%s2\" - en voor het sluiten van de chat-box of gewoon \"%s3\" (voor het openen en sluiten van chat- doos binnen een bookmark-link)."
+
+#: chats.php:2076
+msgid "For example"
+msgstr "Bijvoorbeeld"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "Toevoegen als website menu-item:"
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "Selecteer een pagina \"%s1\", \"%s2\" of \"%s3\" uit de lijst \"%s4\""
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "Om toe te voegen als een website widget \"WPAdm Chat Control\". In dit geval is het mogelijk om het uiterlijk van de widget aanpassen"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "Babbelen"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "Type"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "Knop"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "Link"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "Voorbeschouwing"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "Tekst"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Class"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "Kleur"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "Achtergrond"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "Rand kleur"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "Border radius"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "Schaduw kleur"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "Shadow size"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "op hover"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "Tijdens de website thema ontwikkeling gebruik maken van de JS-methoden %s1, %s2 en %s3"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "Gebruik shortcode $ in te voegen als knop of een koppeling in de template (thema) van uw site"
+
+msgid "Do not forget"
+msgstr "Niet vergeten"
+
+msgid "Activate Chat"
+msgstr "Activeren Chat"
+
+msgid "Show status indicator"
+msgstr "Show statusindicator"

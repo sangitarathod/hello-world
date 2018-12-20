@@ -1,0 +1,7 @@
+post_title,post_content,post_status,sku,downloadable,virtual,regular_price,sale_price
+p1,p1 content,publish,121,no,no,1000,800
+p2,p2 content,publish,122,no,no,1200,1100
+p3,p3 content,publish,123,no,no,5000,4800
+p4,p4 content,publish,124,no,no,6000,5700
+p5,p5 content,publish,125,no,no,7000,
+p6,p6 content ,publish,126,no,no ,4000,4500

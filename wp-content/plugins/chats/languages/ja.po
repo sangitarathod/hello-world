@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-11-30 16:04+0400\n"
+"PO-Revision-Date: 2017-02-28 22:42+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "チャット"
+
+msgid "settings_tab_color"
+msgstr "チャートのイタフェエ-ス"
+
+msgid "settings_width"
+msgstr "幅"
+
+msgid "settings_panel_background"
+msgstr "タイトルの背景の色"
+
+msgid "settings_panel_border_color"
+msgstr "チャンス枠の色"
+
+msgid "settings_body_background"
+msgstr "メッセージの背景の色"
+
+msgid "settings_btn_finish_background"
+msgstr "\"フィニッシュ\"のボタンの背景の色"
+
+msgid "settings_btn_finish_color"
+msgstr "\"フィニッシュ\"のボタンの文字の色"
+
+msgid "settings_btn_finish_border_color"
+msgstr "\"フィニッシュ\"の枠の色"
+
+msgid "settings_btn_expand_background"
+msgstr "\"開く\"のボタンの色"
+
+msgid "settings_admin_signature_color"
+msgstr "アドミンのサインの色"
+
+msgid "settings_admin_text_color"
+msgstr "アドミンのメッセージの色"
+
+msgid "settings_user_signature_color"
+msgstr "ユ-ザ-のサインの色"
+
+msgid "settings_user_text_color"
+msgstr "ユ-ザ-のメッセージの色"
+
+msgid "settings_time_color"
+msgstr "メッセージの時間の色"
+
+msgid "settings_message_border_color"
+msgstr "メッセージの枠の色"
+
+msgid "settings_write_panel_background"
+msgstr "パネルの色"
+
+msgid "settings_write_area_background"
+msgstr "入力フィルドの色"
+
+msgid "settings_write_area_color"
+msgstr "文字の色"
+
+msgid "settings_show_avatars"
+msgstr "アバタ-を表示しますか?"
+
+msgid "settings_admin_avatar"
+msgstr "アドミンのアバタ-"
+
+msgid "settings_user_avatar"
+msgstr "ユ-ザ-のアバタ-"
+
+msgid "settings_tab_template"
+msgstr "評細の設定"
+
+msgid "settings_position"
+msgstr "位置"
+
+msgid "settings_position_left"
+msgstr "左"
+
+msgid "settings_position_right"
+msgstr "右"
+
+msgid "settings_status"
+msgstr "チャットのステ-タス"
+
+msgid "settings_status_1"
+msgstr "オンライン"
+
+msgid "settings_status_2"
+msgstr "非表示"
+
+msgid "settings_status_3"
+msgstr "オフライン"
+
+msgid "settings_tab_text"
+msgstr "チャットのテキスト"
+
+msgid "settings_admin_signature"
+msgstr "アドミンのサイン"
+
+msgid "settings_user_signature"
+msgstr "ユ-ザ-のサイン"
+
+msgid "settings_hello_message"
+msgstr "挨拶のメッセージ"
+
+msgid "settings_panel_title"
+msgstr "パネルのタイトル"
+
+msgid "settings_enter_text_placeholder"
+msgstr "プレースホルダの入力"
+
+msgid "settings_btn_finish_text"
+msgstr "\"フィニッシュ\"のボタンのラベル"
+
+msgid "settings_thank_message"
+msgstr "お礼のメッセージ"
+
+msgid "settings_offline_message"
+msgstr "オフラインのメッセージ"
+
+msgid "settings_email_label"
+msgstr "メール"
+
+msgid "settings_name_label"
+msgstr "名前"
+
+msgid "settings_message_label"
+msgstr "メッセージのラベル"
+
+msgid "settings_send_email"
+msgstr "送信のボタン"
+
+msgid "settings_offline_thank_message"
+msgstr "オフラインのお礼メッセージ"
+
+msgid "settings_tab_auth"
+msgstr "チャットのアクテイベション"
+
+msgid "settings_tab_auth2"
+msgstr "登録とアクテイベション"
+
+msgid "settings_personal_key"
+msgstr "個人のキー"
+
+msgid "settings_personal_key_desc"
+msgstr "このキーはアドミンのパネルのキーと同じくでなければなりませんので、ご注意ください。"
+
+msgid "settings_auth_email"
+msgstr "ロクイン(メール)"
+
+msgid "settings_auth_password1"
+msgstr "パスワード"
+
+msgid "settings_auth_password2"
+msgstr "パスワードの確認"
+
+msgid "settings_auth_register_btn"
+msgstr "登録とアクテイベション"
+
+msgid "settings_auth_login_btn"
+msgstr "ログイン"
+
+msgid "settings_existing_user"
+msgstr "存在しているユ-ザ-"
+
+msgid "settings_new_user"
+msgstr "新規のユ-ザ-"
+
+msgid "answer_server_not_answer"
+msgstr "サ-バとの接続のエラー"
+
+msgid "answer_incorrect_url"
+msgstr "urlかドメインはが間違っている"
+
+msgid "answer_incorrect_data"
+msgstr "入力の間違い"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "ユ-ザ-の名前からパスワードが間違っている"
+
+msgid "answer_user_not_found"
+msgstr "ユ-ザ-の名前を見つけられない"
+
+msgid "answer_this_username_busy"
+msgstr "この名前を他のユ-ザ-が使っているか間違いないがある"
+
+msgid "answer_login_ok"
+msgstr "ログインを成功しました"
+
+msgid "settings_tab_notification"
+msgstr "オンラインとオフラインのお知らせの送信"
+
+msgid "settings_email_for_offline_msg"
+msgstr "このメールにオフラインのメッセージを送信する"
+
+msgid "settings_email_for_first_msg"
+msgstr "チャットが始まったら、このメールに送信する。"
+
+msgid "test_mail"
+msgstr "テスト"
+
+msgid "mail_is_empty"
+msgstr "メールを入力してください。メールなしでこの作用を利用できません。"
+
+msgid "test_mail_was_successfully"
+msgstr "メールを送信しました。メールポストを確認してください"
+
+msgid "test_mail_was_not_sent"
+msgstr ""
+"<strong>メールを送信できませんでした。</strong><br /> 可能な理由<br />- メールの入力の間違い あるいは<br />- サバかホステングのmail() の作用を設定できません。<br /> <strong>サ-バのメールを確認してください。</"
+"strong>"
+
+msgid "subject_offline_message"
+msgstr "チャット  新しいメッセージ"
+
+msgid "subject_email_for_first_msg"
+msgstr "チャット  新しいチャットが始まった"
+
+msgid "user_ip"
+msgstr "ユ-ザ-IP"
+
+msgid "user_message"
+msgstr "ユ-ザ-のメッセージ"
+
+msgid "user_message_page"
+msgstr "リファラ-URL"
+
+msgid "close"
+msgstr "メッセージを隠す"
+
+msgid "settings_smtp"
+msgstr "メール設定/SMTP設定"
+
+msgid "send_mail_with"
+msgstr "三つの方法の一つを使ってメールを送信する"
+
+msgid "with_wpchatcom_service"
+msgstr "wp-chat.com のサ-ビス"
+
+msgid "with_server_service"
+msgstr "このサイトで"
+
+msgid "with_own_smtp_service"
+msgstr "smptサ-バ"
+
+msgid "test_smtp"
+msgstr "SMPTテスト"
+
+msgid "settings_smtp_host"
+msgstr "SMPTサ-バ"
+
+msgid "settings_smtp_user"
+msgstr "SMPTユ-ザ-"
+
+msgid "settings_smtp_pass"
+msgstr "SMPTパスワード"
+
+msgid "settings_smtp_port"
+msgstr "SMPTポ-ト"
+
+msgid "smtp_test_was_successfully"
+msgstr "SMPTテストが成功した"
+
+msgid "notification_email_empty"
+msgstr "\"メール\"が空ので、このフィルドを入力してください"
+
+msgid "desc_mail_notification"
+msgstr "メッセージ送信を止めるように、通信フィルドにメールアドレスを消してください"
+
+msgid "website_smtp_desc"
+msgstr "Word Press ヲ利用してこのサイトでメールを送信する"
+
+msgid "wpchat_smtp_desc"
+msgstr "wp-chat.com でメールを送信する。このサ-バかホステイングを使えない場合、役にたちます。"
+
+msgid "info_smtp_desc"
+msgstr "すべてのメールを示したメールボクスで送信する。ホテイングパネルにセットアップのデータを受けられる。又はウェッブマスターに訪ねてください。"
+
+msgid "method_1"
+msgstr "方法1"
+
+msgid "method_2"
+msgstr "方法2"
+
+msgid "method_3"
+msgstr "方法3"
+
+msgid "advanced_mail_settings"
+msgstr "メール送信の評細"
+
+msgid "title_page_post_setting"
+msgstr "ポストとページのチャットの窓"
+
+msgid "pps_access_view"
+msgstr "チャット窓の視度"
+
+msgid "pps_none"
+msgstr "選ぶ"
+
+msgid "pps_category"
+msgstr "カテゴリ"
+
+msgid "pps_post_page"
+msgstr "ポスト/ページ"
+
+msgid "pps_main"
+msgstr "メインページ"
+
+msgid "pps_category_name"
+msgstr "カテゴリの名"
+
+msgid "pps_category_posts"
+msgstr "カテゴリのポスト"
+
+msgid "pps_deny"
+msgstr "拒否する"
+
+msgid "pps_allow"
+msgstr "賛成する"
+
+msgid "pps_page_post_name"
+msgstr "ポスト/ページのタイトル"
+
+msgid "pps_type"
+msgstr "書類"
+
+msgid "pps_show_main"
+msgstr "メインページ"
+
+msgid "pps_yes"
+msgstr "はい"
+
+msgid "pps_no"
+msgstr "いいえ"
+
+msgid "save_visibility_button"
+msgstr "視度の設定を保存する"
+
+msgid "chat_signatures"
+msgstr "チャットのサイン"
+
+msgid "open_administration_area"
+msgstr "アドミンのスペスを開く"
+
+msgid "connection_error"
+msgstr "server secure.wp-chat.com を接続のエラー"
+
+msgid "popup_chat_automatically"
+msgstr "自動的にチャットの窓を開く"
+
+msgid "delay"
+msgstr "遅れ"
+
+msgid "chat_timezone"
+msgstr "チャットの時間帯"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "自動的(お客の時間帯)"
+
+msgid "select"
+msgstr "選ぶ"
+
+msgid "mod_security_installed"
+msgstr ""
+"サ-バに防護のモジュ-ルが設定しているので、チャットと接続できなかった<a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a>. 問題を解決するように、次の作用を行ってください。 <a href=\"http://"
+"secure.wp-chat.com/chat-faq\" target=_blank>手順"
+
+msgid "cloudflare_site"
+msgstr ""
+" <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a> service. Configure Firewall CloudFlare as indicated in <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>the instructions</a>を"
+"利用しているので、チャットできなかった。"
+
+msgid "sec"
+msgstr "秒"
+
+msgid "position"
+msgstr "位置"
+
+msgid "status"
+msgstr "ステ-タス"
+
+msgid "admin_signature"
+msgstr "アドミン"
+
+msgid "user_signature"
+msgstr "あなた"
+
+msgid "hello_message"
+msgstr "こんにちは。質問がありますか?"
+
+msgid "panel_title"
+msgstr "私達とのチャット"
+
+msgid "enter_text_placeholder"
+msgstr "メッセージを入力してください"
+
+msgid "btn_finish_text"
+msgstr "完了"
+
+msgid "thank_message"
+msgstr "Liva Chat を利用くださいましてありがとうございます。サ-ビスを改善するように、ご協力お願い致します。\"閉じる\"をクリックしたら、感想を教えてください。"
+
+msgid "offline_message"
+msgstr "只今オフラインです。メールとメッセージを残してください。私達はできるかぎり連絡致します。"
+
+msgid "email_label"
+msgstr "メール"
+
+msgid "name_label"
+msgstr "名前"
+
+msgid "message_label"
+msgstr "メッセージ"
+
+msgid "send_email"
+msgstr "送信"
+
+msgid "offline_thank_message"
+msgstr "送信しました。ありがとうございます。"
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "チャットボックスの開閉に関する要素をウェブサイトのインターフェースに追加するには、いくつかの方法があります。"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "ブックマークリンクの追加：%s1 - チャットボックスのオープン、%s2 - チャットボックスの終了、または %s3 （チャットボックスのオープンとクローズ） ブックマークリンク内のボックス）。"
+
+#: chats.php:2076
+msgid "For example"
+msgstr "例えば"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "ウェブサイトメニュー項目として追加するには："
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "\"%s4\"リストからページ\"%s1\"、\"%s2\"または\"%s3\"を選択してください"
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "ウェブサイトウィジェット\"WPAdm Chat Control\"として追加する。 この場合、ウィジェットの外観をカスタマイズすることは可能です"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "チャット"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "タイプ"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "ボタン"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "リンク"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "プレビュー"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "テキスト"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Class"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "色"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "バックグラウンド"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "ボーダーカラー"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "ボーダー半径"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "影の色"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "影の大きさ"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "ホバー上で"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "ウェブサイトのテーマ開発では、javascriptメソッド％s1、％s2、％s3を使用します"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "ショートコード$を使用して、サイトのテンプレート（テーマ）にボタンまたはリンクとして挿入する"
+
+msgid "Do not forget"
+msgstr "忘れてはいけない"
+
+msgid "Activate Chat"
+msgstr "チャットを有効にする"
+
+msgid "Show status indicator"
+msgstr "ステータスインジケータを表示"

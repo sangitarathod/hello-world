@@ -1,0 +1,10 @@
+id,product_title,product_sku,product_stock,product_wholsale_price,product_suggested_retail,product_color,product_memory,product_brand
+1759,"grouped product",gp1,,,,,,
+1742,iphone7,var_sku2,2,600,,Blue,128GB,b2
+1741,iphone7,var_sku1,1,500,,White,256GB,b1
+1712,iphone7,sku3,,30000,32000,"rosy pink",,
+1711,p2,sku2,,6000,6600,White,,
+1710,p1,sku1,,5000,5400,Red,,
+1654,"Running Shoe",12346,3,,,,,
+172,"High Heel Shoe",12345,,2000,,,,
+86,"Product 1",t-shirt1,18,600,,,,

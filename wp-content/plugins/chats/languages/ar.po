@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-11-30 16:04+0400\n"
+"PO-Revision-Date: 2017-02-28 22:42+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "دردشات المساعد"
+
+msgid "settings_tab_color"
+msgstr "واجهة دردشة"
+
+msgid "settings_width"
+msgstr "عرض"
+
+msgid "settings_panel_background"
+msgstr "عنوان لوحة خلفية"
+
+msgid "settings_panel_border_color"
+msgstr "لون الحدود الدردشة"
+
+msgid "settings_body_background"
+msgstr "خلفية رسالة لوحة"
+
+msgid "settings_btn_finish_background"
+msgstr "خلفية إنهاء زر"
+
+msgid "settings_btn_finish_color"
+msgstr "الانتهاء من لون الزر"
+
+msgid "settings_btn_finish_border_color"
+msgstr "الانتهاء من لون الحدود زر"
+
+msgid "settings_btn_expand_background"
+msgstr "توسيع خلفية زر"
+
+msgid "settings_admin_signature_color"
+msgstr "مشرف اللون توقيع"
+
+msgid "settings_admin_text_color"
+msgstr "لون النص مشرف"
+
+msgid "settings_user_signature_color"
+msgstr "اللون توقيع العضو"
+
+msgid "settings_user_text_color"
+msgstr "لون النص المستخدم"
+
+msgid "settings_time_color"
+msgstr "رسالة لون الوقت"
+
+msgid "settings_message_border_color"
+msgstr "رسالة لون الحدود"
+
+msgid "settings_write_panel_background"
+msgstr "خلفية لوحة الكتابة"
+
+msgid "settings_write_area_background"
+msgstr "خلفية منطقة الكتابة"
+
+msgid "settings_write_area_color"
+msgstr "لون منطقة الكتابة"
+
+msgid "settings_show_avatars"
+msgstr "تظهر الآلهة و؟"
+
+msgid "settings_admin_avatar"
+msgstr "الصورة الرمزية مشرف"
+
+msgid "settings_user_avatar"
+msgstr "صورة العضو"
+
+msgid "settings_tab_template"
+msgstr "إعدادات متقدمة"
+
+msgid "settings_position"
+msgstr "موضع"
+
+msgid "settings_position_left"
+msgstr "اليسار"
+
+msgid "settings_position_right"
+msgstr "حق"
+
+msgid "settings_status"
+msgstr "حالة الدردشة"
+
+msgid "settings_status_1"
+msgstr "الدردشة على الانترنت"
+
+msgid "settings_status_2"
+msgstr "الدردشة الخفية"
+
+msgid "settings_status_3"
+msgstr "حاليا غير متص"
+
+msgid "settings_tab_text"
+msgstr "نصوص الدردشة"
+
+msgid "settings_admin_signature"
+msgstr "التوقيع مشرف"
+
+msgid "settings_user_signature"
+msgstr "التوقيع المستخدم"
+
+msgid "settings_hello_message"
+msgstr "مرحبا رسالة"
+
+msgid "settings_panel_title"
+msgstr "عنوان لوحة"
+
+msgid "settings_enter_text_placeholder"
+msgstr "أدخل نائبا النص"
+
+msgid "settings_btn_finish_text"
+msgstr "تسمية الزر النهاية"
+
+msgid "settings_thank_message"
+msgstr "رسالة \"شكرا\""
+
+msgid "settings_offline_message"
+msgstr "دردشة دون اتصال رسالة"
+
+msgid "settings_email_label"
+msgstr "البريد الإلكتروني"
+
+msgid "settings_name_label"
+msgstr "اسم"
+
+msgid "settings_message_label"
+msgstr "التسمية رسالة"
+
+msgid "settings_send_email"
+msgstr "زر إرسال البريد الإلكتروني"
+
+msgid "settings_offline_thank_message"
+msgstr "غير متصل أشكر رسالة"
+
+msgid "settings_tab_auth"
+msgstr "تفعيل الدردشة"
+
+msgid "settings_tab_auth2"
+msgstr "التسجيل دردشة والتنشيط"
+
+msgid "settings_personal_key"
+msgstr "مفتاح الشخصية"
+
+msgid "settings_personal_key_desc"
+msgstr "كن حذرا، وينبغي أن يكون هذا المفتاح هي نفسها كما في لوحة الادارة للموقع"
+
+msgid "settings_auth_email"
+msgstr "تسجيل الدخول (البريد الإلكتروني)"
+
+msgid "settings_auth_password1"
+msgstr "كلمه السر"
+
+msgid "settings_auth_password2"
+msgstr "تأكيد كلمة السر"
+
+msgid "settings_auth_register_btn"
+msgstr "تسجيل وتنشيط"
+
+msgid "settings_auth_login_btn"
+msgstr "تسجيل الدخول"
+
+msgid "settings_existing_user"
+msgstr "مستخدم موجود"
+
+msgid "settings_new_user"
+msgstr "مستخدم جديد"
+
+msgid "answer_server_not_answer"
+msgstr "لا يمكن الاتصال بالخادم"
+
+msgid "answer_incorrect_url"
+msgstr "رابط غير صحيح المجال"
+
+msgid "answer_incorrect_data"
+msgstr "تم تقديم نموذج غير صحيح"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "اسم المستخدم أو كلمة المرور غير صحيحة"
+
+msgid "answer_user_not_found"
+msgstr "اسم المستخدم لم يتم العثور"
+
+msgid "answer_this_username_busy"
+msgstr "اسم المستخدم مشغول أو غير صحيحة"
+
+msgid "answer_login_ok"
+msgstr "تم الدخول بنجاح"
+
+msgid "settings_tab_notification"
+msgstr "إرسال إعلامات على الانترنت و غير متص"
+
+msgid "settings_email_for_offline_msg"
+msgstr "إرسال رسائل \"غير متصل\" لهذا البريد الإلكتروني"
+
+msgid "settings_email_for_first_msg"
+msgstr "إذا بدأت الجديدة \"على الانترنت\" الدردشة، وإرسال إخطارات إلى هذا البريد الإلكتروني"
+
+msgid "test_mail"
+msgstr "اختبار"
+
+msgid "mail_is_empty"
+msgstr "من فضلك، اكتب بعض عنوان البريد الإلكتروني. بدون عنوان البريد الإلكتروني هذه الوظيفة لا تكون قيد الاستعمال."
+
+msgid "test_mail_was_successfully"
+msgstr "تم إرسال البريد الإلكتروني بنجاح! برجاء مراجعة صندوق البريد الخاص بك."
+
+msgid "test_mail_was_not_sent"
+msgstr "<strong>لم يتم إرسال البريد الإلكتروني! قوي</strong></br>الأسباب المحتملة:</br>-تم إدخال عنوان البريد الإلكتروني غير صحيح أو<br/>-وظيفة البريد الإلكتروني () على الخادم الخاص بك / استضافة لم يتم العثور أو لم يتم تكوينه.<br/><strong>تحقق من تكوين خادم البريد الخاص بك.</strong>"
+
+msgid "subject_offline_message"
+msgstr "دردشات - غير متص"
+
+msgid "subject_email_for_first_msg"
+msgstr "دردشات - بدأت دردشة جديدة على"
+
+msgid "user_ip"
+msgstr "IP المستخدم"
+
+msgid "user_message"
+msgstr "رسالة المستخدم"
+
+msgid "user_message_page"
+msgstr "URL التحويلية"
+
+msgid "close"
+msgstr "إخفاء هذه الرسالة"
+
+msgid "settings_smtp"
+msgstr "إعدادات البريد الإلكتروني إعدادات SMTP /"
+
+msgid "send_mail_with"
+msgstr "إرسال إعلامات البريد باستخدام واحدة من ثلاث طرق:"
+
+msgid "with_wpchatcom_service"
+msgstr "خدمة wp-chat.com"
+
+msgid "with_server_service"
+msgstr "هذا الموقع"
+
+msgid "with_own_smtp_service"
+msgstr "بلدي خادم بروتوكول نقل البريد البسيط الخاص"
+
+msgid "test_smtp"
+msgstr "اختبار بروتوكول نقل البريد البسيط"
+
+msgid "settings_smtp_host"
+msgstr "خادم بروتوكول نقل البريد البسيط"
+
+msgid "settings_smtp_user"
+msgstr "SMTP العضو"
+
+msgid "settings_smtp_pass"
+msgstr "SMTP كلمة المرور"
+
+msgid "settings_smtp_port"
+msgstr "منفذ  SMTP"
+
+msgid "smtp_test_was_successfully"
+msgstr "كان اختبار SMTP الناجح"
+
+msgid "notification_email_empty"
+msgstr "إخطارات البريد الإلكتروني هي فارغة، يرجى ملء هذه الحقول"
+
+msgid "desc_mail_notification"
+msgstr "لإيقاف إرسال رسائل الإشعار - فقط حذف عنوان البريد الإلكتروني من الحقل المقابل"
+
+msgid "website_smtp_desc"
+msgstr "سيتم إرسال رسائل البريد الإلكتروني من خلال هذا الموقع، وذلك باستخدام وظيفة من WordPress"
+
+msgid "wpchat_smtp_desc"
+msgstr "سيتم إرسال رسائل البريد الإلكتروني من خلال خدمة الإنترنت wp-chat.com. يمكن أن تكون مفيدة، وإذا كان خادم البريد على هذه الاستضافة / الخادم غير متوفر"
+
+msgid "info_smtp_desc"
+msgstr "وسوف ترسل جميع رسائل البريد الإلكتروني عبر علبة البريد المحدد. يمكنك الحصول على بيانات الإعداد SMTP في لوحة الاستضافة أو اسألوا المشرف على الموقع"
+
+msgid "method_1"
+msgstr "طريقة 1"
+
+msgid "method_2"
+msgstr "طريقة 2"
+
+msgid "method_3"
+msgstr "طريقة 3"
+
+msgid "advanced_mail_settings"
+msgstr "الإعدادات المتقدمة لإرسال البريد"
+
+msgid "title_page_post_setting"
+msgstr "نافذة الدردشة على المشاركات والصفحات"
+
+msgid "pps_access_view"
+msgstr "رؤية نافذة الدردشة على"
+
+msgid "pps_none"
+msgstr "- إختار -"
+
+msgid "pps_category"
+msgstr "فئة"
+
+msgid "pps_post_page"
+msgstr "بريد / الصفحة"
+
+msgid "pps_main"
+msgstr "الصفحة الرئيسية"
+
+msgid "pps_category_name"
+msgstr "اسم الفئة"
+
+msgid "pps_category_posts"
+msgstr "المشاركات في فئة"
+
+msgid "pps_deny"
+msgstr "رفض"
+
+msgid "pps_allow"
+msgstr "السماح"
+
+msgid "pps_page_post_name"
+msgstr "بريد / عنوان الصفحة"
+
+msgid "pps_type"
+msgstr "نوع"
+
+msgid "pps_show_main"
+msgstr "الصفحة الرئيسية"
+
+msgid "pps_yes"
+msgstr "نعم فعلا"
+
+msgid "pps_no"
+msgstr "لا"
+
+msgid "save_visibility_button"
+msgstr "إعدادات الرؤية حفظ"
+
+msgid "chat_signatures"
+msgstr "التوقيعات الدردشة"
+
+msgid "open_administration_area"
+msgstr "إدارة المنطقة المفتوحة"
+
+msgid "connection_error"
+msgstr "خطأ في الاتصال بخادم secure.wp-chat.com."
+
+msgid "popup_chat_automatically"
+msgstr "المنبثقة دردشة آليا"
+
+msgid "delay"
+msgstr "تأخير"
+
+msgid "chat_timezone"
+msgstr "التوقيت دردشة"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "اوتوماتيك"
+
+msgid "select"
+msgstr "اختار"
+
+msgid "mod_security_installed"
+msgstr "غير قادر على الاتصال الدردشة الحية لأنها مثبتة على وحدة أمن الخادم<a href=\"https://www.modsecurity.org/\" target=_blank> ModSecurity </a>. اتبع الخطوات التالية لحل هذه المشكلة <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>تعليمات</a>"
+
+msgid "cloudflare_site"
+msgstr "غير قادر على الاتصال الدردشة الحية لأنه يستخدم الخدمة <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a>. ضبط Firewall CloudFlare كما هو مبين في <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>تعليمات</a>"
+
+msgid "sec"
+msgstr "ثانية"
+
+msgid "position"
+msgstr "موضع"
+
+msgid "status"
+msgstr "الحالة"
+
+msgid "admin_signature"
+msgstr "مشرف"
+
+msgid "user_signature"
+msgstr "أنت"
+
+msgid "hello_message"
+msgstr "مرحبا. هل لديك اسئلة؟"
+
+msgid "panel_title"
+msgstr "دردش معنا"
+
+msgid "enter_text_placeholder"
+msgstr "أدخل رسالتك..."
+
+msgid "btn_finish_text"
+msgstr "نهاية"
+
+msgid "thank_message"
+msgstr "شكرا لك على استخدام الدردشة الحية. لمساعدتنا في خدمتك بشكل أفضل، يرجى ان نتوقف لحظة لاستكمال استطلاع قصير. سيعرض كما قمت بإغلاق دردشة بالضغط على دردشة نافذه في أعلى يمين الشاشة. شكرا لالدردشة. الرجاء انقر فوق \"إغلاق\" رمز، ثم يقول لنا كيف فعلنا."
+
+msgid "offline_message"
+msgstr "عذرا، لكننا مغلقين الآن. من فضلك، ترك عنوان البريد الإلكتروني الشخصي والرسالة الخاصة بك. وسوف نتواصل معكم في أقرب وقت ممكن."
+
+msgid "email_label"
+msgstr "البريد الإلكتروني"
+
+msgid "name_label"
+msgstr "اسم"
+
+msgid "message_label"
+msgstr "الرسالة"
+
+msgid "send_email"
+msgstr "ارسل بريد الكتروني"
+
+msgid "offline_thank_message"
+msgstr "تم إرسال رسالتك. شكرا."
+
+msgid "Integration method"
+msgstr "طريقة التكامل"
+
+msgid "internal"
+msgstr "داخلي"
+
+msgid "external"
+msgstr "خارجي"
+
+msgid "<b>Unable to get data from the server.</b><br>Try to change the integration method to \"external\"."
+msgstr "غير قادر على الحصول على البيانات من الخادم. في محاولة لتغيير أسلوب التكامل \"خارجي\"."
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "عدة طرق لإضافة إلى موقع واجهة عنصر لفتح وإغلاق دردشة مربع:"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "مضيفا من المرجعية الارتباط: \"٪ %s3 لافتتاح دردشة%s2 - ولإغلاق دردشة مربع أو مجرد ٪%s1لفتح وإغلاق دردشة مربع داخل الارتباط مرجعية واحدة )."
+
+#: chats.php:2076
+msgid "For example"
+msgstr "فمثلا"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "لإضافة مثل موقع القائمة:"
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "اختر صفحة \" %s1، \"٪  %s2أو \"٪  %s3من قائمة \"%s4"
+
+#: chats.php:2085
+msgid "Pages. Most Recent"
+msgstr "الصفحات. الأحدث"
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "لإضافة موقع على شبكة الانترنت القطعة \"WPAdm مراقبة الدردشة\". في هذه الحالة، فمن الممكن لتخصيص مظهر من القطعة"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "دردشة"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "اكتب"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "زر"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "حلقة الوصل"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "معاينة"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "نص"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Class"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "اللون"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "خلفية"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "لون الحدود"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "دائرة نصف قطرها الحدود"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "لون الظل"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "حجم الظل"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "على التحويم"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "أثناء تطوير الموقع موضوع استخدام شبيبة أساليب٪ S1، S2٪ و٪ S3"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "استخدام الرمز القصير $ لادخال مثل زر أو ارتباط في القالب (موضوع) من موقعك"
+
+msgid "Do not forget"
+msgstr "لا ننسى"
+
+msgid "Activate Chat"
+msgstr "تفعيل دردشة"
+
+msgid "Show status indicator"
+msgstr "مشاهدة مؤشر حالة"
+

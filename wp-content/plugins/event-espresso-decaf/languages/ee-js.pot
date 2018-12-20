@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: assets/src/exit-modal-survey/index.js:38
+msgid "Do you have a moment to share why you are deactivating Event Espresso?"
+msgstr ""
+
+#: assets/src/exit-modal-survey/index.js:42
+msgid "Sure I'll help"
+msgstr ""
+
+#: assets/src/exit-modal-survey/index.js:46
+msgid "Skip"
+msgstr ""

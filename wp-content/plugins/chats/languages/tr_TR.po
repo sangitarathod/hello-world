@@ -1,0 +1,539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-11-30 16:04+0400\n"
+"PO-Revision-Date: 2017-02-28 22:43+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Sohbetler"
+
+msgid "settings_tab_color"
+msgstr "Sohbet ara yüzü"
+
+msgid "settings_width"
+msgstr "Genişlik"
+
+msgid "settings_panel_background"
+msgstr "Başlık arka plan rengi"
+
+msgid "settings_panel_border_color"
+msgstr "Sohbet çerçeve rengi "
+
+msgid "settings_body_background"
+msgstr "Mesaj arka plan rengi"
+
+msgid "settings_btn_finish_background"
+msgstr "Sonlandır' tuşunun arka plan rengi"
+
+msgid "settings_btn_finish_color"
+msgstr "Sonlandır' tuşunun metin rengi"
+
+msgid "settings_btn_finish_border_color"
+msgstr "Sonlandır' tuşunun çerçeve rengi"
+
+msgid "settings_btn_expand_background"
+msgstr "Açıklama' tuşunun arka plan rengi"
+
+msgid "settings_admin_signature_color"
+msgstr "Admin imza tuşunun rengi"
+
+msgid "settings_admin_text_color"
+msgstr "Admin mesaj tuşunun rengi"
+
+msgid "settings_user_signature_color"
+msgstr "Ziyaretçi imzasının metin rengi"
+
+msgid "settings_user_text_color"
+msgstr "Kullanıcı mesajı metin rengi"
+
+msgid "settings_time_color"
+msgstr "Zaman işareti rengi"
+
+msgid "settings_message_border_color"
+msgstr "Mesaj çerçeve rengi"
+
+msgid "settings_write_panel_background"
+msgstr "Panel arka plan rengi"
+
+msgid "settings_write_area_background"
+msgstr "Mesaj giriş alanı arka plan rengi"
+
+msgid "settings_write_area_color"
+msgstr "Mesaj giriş alanında metin rengi"
+
+msgid "settings_show_avatars"
+msgstr "Avatarları göster?"
+
+msgid "settings_admin_avatar"
+msgstr "Admin avatarı"
+
+msgid "settings_user_avatar"
+msgstr "Ziyaretçi avatarı"
+
+msgid "settings_tab_template"
+msgstr "Gelişmiş ayarlar"
+
+msgid "settings_position"
+msgstr "Pozisyon"
+
+msgid "settings_position_left"
+msgstr "Solda"
+
+msgid "settings_position_right"
+msgstr "Sağda"
+
+msgid "settings_status"
+msgstr "Sohbet statüsü"
+
+msgid "settings_status_1"
+msgstr "Çevrimiçi"
+
+msgid "settings_status_2"
+msgstr "Gizli"
+
+msgid "settings_status_3"
+msgstr "Çevrimdışı"
+
+msgid "settings_tab_text"
+msgstr "Sohbet metinleri"
+
+msgid "settings_admin_signature"
+msgstr "Admin imzası"
+
+msgid "settings_user_signature"
+msgstr "Ziyaretçi imzası"
+
+msgid "settings_hello_message"
+msgstr "Karşılama mesajı"
+
+msgid "settings_panel_title"
+msgstr "Panel başlığı "
+
+msgid "settings_enter_text_placeholder"
+msgstr "Giriş alanı için ipucu"
+
+msgid "settings_btn_finish_text"
+msgstr "Sonlandır' tuşunun adı"
+
+msgid "settings_thank_message"
+msgstr "Teşekkür mesajı"
+
+msgid "settings_offline_message"
+msgstr "Çevrimdışı' mesajı"
+
+msgid "settings_email_label"
+msgstr "E-posta adresi"
+
+msgid "settings_name_label"
+msgstr "İsim"
+
+msgid "settings_message_label"
+msgstr "Mesaj imzası"
+
+msgid "settings_send_email"
+msgstr "Mesaj gönder' tuşunun adı"
+
+msgid "settings_offline_thank_message"
+msgstr "Çevrimdışı teşekkür mesajı"
+
+msgid "settings_tab_auth"
+msgstr "Sohbet aktivasyonu"
+
+msgid "settings_tab_auth2"
+msgstr "Sohbet kayıt ve aktivasyonu"
+
+msgid "settings_personal_key"
+msgstr "Kişisel anahtar"
+
+msgid "settings_personal_key_desc"
+msgstr "Dikkat edin, bu anahtar sitenin admin panelindeki ile aynı olmalıdır"
+
+msgid "settings_auth_email"
+msgstr "Kullanıcı adı (E-posta)"
+
+msgid "settings_auth_password1"
+msgstr "Parola"
+
+msgid "settings_auth_password2"
+msgstr "Parolayı onayla"
+
+msgid "settings_auth_register_btn"
+msgstr "Kayıt ve aktivasyon"
+
+msgid "settings_auth_login_btn"
+msgstr "Giriş Yap"
+
+msgid "settings_existing_user"
+msgstr "Kullanıcı mevcut"
+
+msgid "settings_new_user"
+msgstr "Yeni kullanıcı"
+
+msgid "answer_server_not_answer"
+msgstr "Sunucuyla bağlantı kurulamadı"
+
+msgid "answer_incorrect_url"
+msgstr "Geçersiz alan adı"
+
+msgid "answer_incorrect_data"
+msgstr "Form yanlış dolduruldu"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "Yanlış kullanıcı adı veya parola"
+
+msgid "answer_user_not_found"
+msgstr "Kullanıcı adı bulunamadı"
+
+msgid "answer_this_username_busy"
+msgstr "Böyle kullanıcı adı mevcut veya yanlış"
+
+msgid "answer_login_ok"
+msgstr "Başarılı giriş"
+
+msgid "settings_tab_notification"
+msgstr "Çevrimiçi ve çevrimdışı bildirimleri gönderme"
+
+msgid "settings_email_for_offline_msg"
+msgstr "Bu e-postaya 'çevrimdışı' mesajları gönderme"
+
+msgid "settings_email_for_first_msg"
+msgstr "Yeni bir sohbet başladıktan sonra bu e-postaya bildirim gönder "
+
+msgid "test_mail"
+msgstr "Test"
+
+msgid "mail_is_empty"
+msgstr "Lütfen, geçerli bir e-posta adresi girin. Bir e-posta adresi olmadan, bu fonksiyon kullanılmamaktadır."
+
+msgid "test_mail_was_successfully"
+msgstr "E-mail başarıyla gönderildi! Lütfen, posta kutunuzu kontrol edin."
+
+msgid "test_mail_was_not_sent"
+msgstr "<strong> E-mail gönderilmedi</strong><br /> Olası nedenler:<br /> e-mail adresi yanlış girildi veya <br /> - sunucuda/ hostingte mail() fonksiyonu bulunmadı veya yapılandırılmadı. <br /> <strong> Posta sunucusu yapılandırmasını kontrol edin.</ strong>"
+
+msgid "subject_offline_message"
+msgstr "Sohbetler - yeni bir çevrimdışı mesaj"
+
+msgid "subject_email_for_first_msg"
+msgstr "Sohbetler - yeni sohbet başlatıldı"
+
+msgid "user_ip"
+msgstr "Ziyaretçi IP"
+
+msgid "user_message"
+msgstr "Ziyaretçi mesajı"
+
+msgid "user_message_page"
+msgstr "Referer URL adresi"
+
+msgid "close"
+msgstr "bu mesajı gizle"
+
+msgid "settings_smtp"
+msgstr "Posta ayarları / SMTP ayarları"
+
+msgid "send_mail_with"
+msgstr "Üç yöntemden birini kullanarak e-posta aracılığıyla bildirim gönderme:"
+
+msgid "with_wpchatcom_service"
+msgstr "wp-chat.com servisi"
+
+msgid "with_server_service"
+msgstr "site fonları"
+
+msgid "with_own_smtp_service"
+msgstr "SMTP sunucusu"
+
+msgid "test_smtp"
+msgstr "SMTP testi"
+
+msgid "settings_smtp_host"
+msgstr "Sunucu adresi"
+
+msgid "settings_smtp_user"
+msgstr "Kullanıcı Adı"
+
+msgid "settings_smtp_pass"
+msgstr "Parola"
+
+msgid "settings_smtp_port"
+msgstr "Bağlantı noktası"
+
+msgid "smtp_test_was_successfully"
+msgstr "SMTP testi başarıyla tamamlandı"
+
+msgid "notification_email_empty"
+msgstr "E-posta bildirimleri' boş, lütfen, bu alanları doldurun"
+
+msgid "desc_mail_notification"
+msgstr "Bildirim göndermeyi devre dışı bırakmak için - sadece ilgili alandan e-posta adresini silin"
+
+msgid "website_smtp_desc"
+msgstr "E-posta mesajları, WordPress işlevi kullanılarak, bu web sitesi aracılığıyla gönderilecektir"
+
+msgid "wpchat_smtp_desc"
+msgstr "Online servis wp-chat.com aracılığıyla e-posta mesajı gönderimi, yalnızca bu hosting/sunucu yardımı ile mesaj iletimi mümkün değilse anlamlıdır. Yani sizin mevcut e-posta sunucusu/hosting söz konusudur."
+
+msgid "info_smtp_desc"
+msgstr "Tüm e-posta mesajları, belirtilen e-posta kutusu aracılığıyla gönderilecek. Siz ilgili SMTP ayarlarını hosting panelinizden  alabilir ya da sadece webmasterinizden isteyebilirsiniz"
+
+msgid "method_1"
+msgstr "Yöntem 1"
+
+msgid "method_2"
+msgstr "Yöntem 2"
+
+msgid "method_3"
+msgstr "Yöntem 3"
+
+msgid "advanced_mail_settings"
+msgstr "Posta gönderimi için gelişmiş ayarlar"
+
+msgid "title_page_post_setting"
+msgstr "Kayıtlarda ve sayfalarda sohbet penceresi"
+
+msgid "pps_access_view"
+msgstr "Sohbet penceresinden görünürlük"
+
+msgid "pps_none"
+msgstr " - seç -"
+
+msgid "pps_category"
+msgstr "Kategoriler"
+
+msgid "pps_post_page"
+msgstr "Kayıtlar/Sayfada"
+
+msgid "pps_main"
+msgstr "Ana sayfada"
+
+msgid "pps_category_name"
+msgstr "Kategori ismi"
+
+msgid "pps_category_posts"
+msgstr "Kategoride kayıt"
+
+msgid "pps_deny"
+msgstr "Yasakla"
+
+msgid "pps_allow"
+msgstr "İzin ver"
+
+msgid "pps_page_post_name"
+msgstr "Kayıt/sayfa başlığı"
+
+msgid "pps_type"
+msgstr "Tip"
+
+msgid "pps_show_main"
+msgstr "Ana sayfa"
+
+msgid "pps_yes"
+msgstr "Evet"
+
+msgid "pps_no"
+msgstr "Hayır"
+
+msgid "save_visibility_button"
+msgstr "Görünürlük ayarlarını kaydet "
+
+msgid "chat_signatures"
+msgstr "Sohbet imzaları"
+
+msgid "open_administration_area"
+msgstr "Admin paneline giriş"
+
+msgid "connection_error"
+msgstr "secure.wp-chat.com sunucusuna bağlanırken hata oluştu."
+
+msgid "popup_chat_automatically"
+msgstr "Sohbet penceresinin otomatik açılması"
+
+msgid "delay"
+msgstr "Gecikme"
+
+msgid "chat_timezone"
+msgstr "Sohbetin saat dilimi"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "Otomatik (ziyaretçi saat dilimi)"
+
+msgid "select"
+msgstr "Seç"
+
+msgid "mod_security_installed"
+msgstr "Sunucuda güvenlik modülü <a href='https://www.modsecurity.org/' target=_blank>ModSecurity</a> kurulu olduğundan sohbet ile bağlantı kurulamıyor. Bu sorunu çözmek için, <a href='http://secure.wp-chat.com/chat-faq' target=_blank> talimatlardan</a> adımları izleyin"
+
+msgid "cloudflare_site"
+msgstr "<a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a> servisi kullanılması nedeniyle sohbet ile bağlantı kurulamıyor. <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank> talimatlarda</a> belirtildiği gibi Firewall CloudFlare yapılandırın "
+
+msgid "sec"
+msgstr "sn."
+
+msgid "position"
+msgstr "pozisyon"
+
+msgid "status"
+msgstr "durum"
+
+msgid "admin_signature"
+msgstr "Admin"
+
+msgid "user_signature"
+msgstr "Siz"
+
+msgid "hello_message"
+msgstr "Merhaba. Bir sorunuz var mı?"
+
+msgid "panel_title"
+msgstr "Bizimle sohbet"
+
+msgid "enter_text_placeholder"
+msgstr "Mesajınızı girin…"
+
+msgid "btn_finish_text"
+msgstr "Sonlandır"
+
+msgid "thank_message"
+msgstr "Canlı Sohbet kullandığınız için teşekkür ederiz. Biz sizin için bu servisi geliştirmek istiyoruz, fakat bunun için desteğiniz gerekir. Lütfen, servisimiz hakkında özet bir değerlendirme bırakın. Lütfen, 'Kapat' tuşuna tıklayın ve sonra bizim nasıl ve ne gibi yanlış ya da rahatsız edici birşey yaptığımızı bildirin."
+
+msgid "offline_message"
+msgstr "Şuanda çevrimdışı  olmamıza rağmen, mesajınızı almaktan memnuniyet duyarız. Lütfen, iletişim bilgilerinizi, örneğin, e-posta, telefon, yanı sıra bizim için mesajınızı bırakın. Sizinle en kısa sürede iletişime geçmeye çalışacağız."
+
+msgid "email_label"
+msgstr "E-posta"
+
+msgid "name_label"
+msgstr "İsim"
+
+msgid "message_label"
+msgstr "Mesaj"
+
+msgid "send_email"
+msgstr "Mesaj gönder"
+
+msgid "offline_thank_message"
+msgstr "Mesajınız gönderildi. Teşekkür ederiz"
+
+msgid "Integration method"
+msgstr "Entegrasyon yöntemi"
+
+msgid "internal"
+msgstr "iç"
+
+msgid "external"
+msgstr "dış"
+
+msgid "<b>Unable to get data from the server.</b><br>Try to change the integration method to \"external\"."
+msgstr "<b>Sunucudan veri alınamıyor.</b><br>Entegrasyon yöntemi için \"dış\" değiştirmeyi deneyin."
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "Web sitesi arabirimine eklemek için çeşitli yollar sohbet kutusunun açılması ve kapatılması için bir unsur:"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "Yer imi bağlantısının eklenmesi: \"%s1\" sohbet kutusunun açılması için, \"%s2\" - ve sohbet kutusunun kapatılması için veya sadece \\ \"% s3 \" (sohbet odasının açılıp kapanması için) Kutucuğunu bir yer işareti bağlantısının içinde kullanın)."
+
+#: chats.php:2076
+msgid "For example"
+msgstr "Örneğin"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "Web sitesi menü öğesi olarak eklemek için:"
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "\\ \"%s4\" listesinden bir \"%s1\", \"%s2\" veya \"%s3\" seçin"
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "Bir web sitesi widget'ı olarak eklemek için \"WPAdm Sohbet Kontrolü\". Bu durumda, widget'ın görünümünü özelleştirmek mümkündür"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "Sohbet"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "Tip"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "Düğme"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "Bağlantı"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "Önizleme"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "Metin"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Class"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "Renk"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "Arka fon"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "Sınır rengi"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "Sınır yarıçapı"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "Gölge rengi"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "Gölge boyutu"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "Fareyle üzerine gelin"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "Web sitesi teması geliştirilirken js yöntemleri% %s1,%s2 ve %s3 kullanın"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "Sitenizin şablonunda (tema) düğme veya bağlantı olarak eklemek için shortcode $ kullanın."
+
+msgid "Do not forget"
+msgstr "Unutma"
+
+msgid "Activate Chat"
+msgstr "Sohbeti etkinleştir"
+
+msgid "Show status indicator"
+msgstr "Durum göstergesini göster"

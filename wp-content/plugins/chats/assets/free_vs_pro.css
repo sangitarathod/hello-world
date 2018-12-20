@@ -1,0 +1,59 @@
+.wpadm_chat_free_vs_pro_table {
+    border: none;
+    /*max-width: 100%;*/
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+}
+
+.wpadm_chat_free_vs_pro_table thead {
+    background-color: #dadada;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.wpadm_chat_free_vs_pro_table tr td,
+.wpadm_chat_free_vs_pro_table thead th{
+    border: 1px solid #b5b5b5;
+    padding: 6px;
+}
+
+.wpadm_chat_free_vs_pro_table tr td:first-child,
+.wpadm_chat_free_vs_pro_table thead th:first-child {
+    border-left: none;
+}
+.wpadm_chat_free_vs_pro_table tr td:last-child,
+.wpadm_chat_free_vs_pro_table thead th:last-child {
+    border-right: none;
+}
+
+.wpadm_chat_free_vs_pro_table tr td:nth-child(2) {
+    background-color: #d1ffc8;
+}
+
+
+.wpadm_chat_free_vs_pro_table tr td.center {
+    text-align: center;
+    width: 200px;
+}
+
+.service_name {
+    font-size: 14px;
+    color: #000;
+    height: 100%;
+    font-weight: bold;
+    line-height: 16px;
+}
+
+.free {
+    display: inline-block;
+    width: 23px;
+    height: 20px;
+    background: url("greencheck20.png") center no-repeat;
+}
+
+.prefix {
+    display: inline-block;
+    padding: 0 10px 0 20px;
+}

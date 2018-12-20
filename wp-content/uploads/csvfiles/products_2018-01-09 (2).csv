@@ -1,0 +1,5 @@
+product_title,product_sku,product_stock,product_wholsale_price,product_color,product_memory,product_condition,product_brand
+mytest1,sku_mytest1,2,,White,16 GB,A Grade,Motorola
+mytest2,sku_mytest2,1,4000,white,16gb,A-grade,Motorola
+mytest3,sku_mytest3,,,white,16gb,A-grade,Motorola
+mytest4,sku_mytest4,1,5000,white,16gb,A-grade,Motorola

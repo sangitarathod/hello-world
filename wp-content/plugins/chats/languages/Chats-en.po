@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-12-02 14:06+0400\n"
+"PO-Revision-Date: 2017-02-13 20:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Chats Plugin"
+
+msgid "settings_tab_color"
+msgstr "Chat Interface"
+
+msgid "settings_width"
+msgstr "Width"
+
+msgid "settings_panel_background"
+msgstr "Title panel Background"
+
+msgid "settings_panel_border_color"
+msgstr "Chat border color"
+
+msgid "settings_body_background"
+msgstr "Message panel background"
+
+msgid "settings_btn_finish_background"
+msgstr "Finish button background"
+
+msgid "settings_btn_finish_color"
+msgstr "Finish button color"
+
+msgid "settings_btn_finish_border_color"
+msgstr "Finish button border color"
+
+msgid "settings_btn_expand_background"
+msgstr "Expand button background"
+
+msgid "settings_admin_signature_color"
+msgstr "Admin signature color"
+
+msgid "settings_admin_text_color"
+msgstr "Admin text color"
+
+msgid "settings_user_signature_color"
+msgstr "User signature color"
+
+msgid "settings_user_text_color"
+msgstr "User text color"
+
+msgid "settings_time_color"
+msgstr "Message time color"
+
+msgid "settings_message_border_color"
+msgstr "Message border color"
+
+msgid "settings_write_panel_background"
+msgstr "Write panel background"
+
+msgid "settings_write_area_background"
+msgstr "Write area background"
+
+msgid "settings_write_area_color"
+msgstr "Write area color"
+
+msgid "settings_show_avatars"
+msgstr "Show avatars?"
+
+msgid "settings_admin_avatar"
+msgstr "Admin avatar"
+
+msgid "settings_user_avatar"
+msgstr "User avatar"
+
+msgid "settings_tab_template"
+msgstr "Advanced settings"
+
+msgid "settings_position"
+msgstr "Position"
+
+msgid "settings_position_left"
+msgstr "Left"
+
+msgid "settings_position_right"
+msgstr "Right"
+
+msgid "settings_status"
+msgstr "Chat status"
+
+msgid "settings_status_1"
+msgstr "Chat online"
+
+msgid "settings_status_2"
+msgstr "Chat hidden"
+
+msgid "settings_status_3"
+msgstr "Chat offline"
+
+msgid "settings_tab_text"
+msgstr "Chat texts"
+
+msgid "settings_admin_signature"
+msgstr "Admin Signature"
+
+msgid "settings_user_signature"
+msgstr "User Signature"
+
+msgid "settings_hello_message"
+msgstr "\"Hello\" message"
+
+msgid "settings_panel_title"
+msgstr "Panel title"
+
+msgid "settings_enter_text_placeholder"
+msgstr "Enter text placeholder"
+
+msgid "settings_btn_finish_text"
+msgstr "Finish button label"
+
+msgid "settings_thank_message"
+msgstr "\"Thank\" message"
+
+msgid "settings_offline_message"
+msgstr "\"Offline chat\" message"
+
+msgid "settings_email_label"
+msgstr "Email"
+
+msgid "settings_name_label"
+msgstr "Name"
+
+msgid "settings_message_label"
+msgstr "Message label"
+
+msgid "settings_send_email"
+msgstr "Send email button"
+
+msgid "settings_offline_thank_message"
+msgstr "\"Offline thank\" message"
+
+msgid "settings_tab_auth"
+msgstr "Chat Activation"
+
+msgid "settings_tab_auth2"
+msgstr "Chat Registration and Activation"
+
+msgid "settings_personal_key"
+msgstr "Personal key"
+
+msgid "settings_personal_key_desc"
+msgstr "Be careful, this key should be the same as in admin panel of site"
+
+msgid "settings_auth_email"
+msgstr "Login (E-mail)"
+
+msgid "settings_auth_password1"
+msgstr "Password"
+
+msgid "settings_auth_password2"
+msgstr "Confirm password"
+
+msgid "settings_auth_register_btn"
+msgstr "Register & Activate"
+
+msgid "settings_auth_login_btn"
+msgstr "Login"
+
+msgid "settings_existing_user"
+msgstr "Existing user"
+
+msgid "settings_new_user"
+msgstr "New user"
+
+msgid "answer_server_not_answer"
+msgstr "Could not connect to server"
+
+msgid "answer_incorrect_url"
+msgstr "Incorrect url of domain"
+
+msgid "answer_incorrect_data"
+msgstr "Form was filed incorrectly"
+
+msgid "answer_incorrect_login_or_password"
+msgstr "Incorrect username or password"
+
+msgid "answer_user_not_found"
+msgstr "Username not found"
+
+msgid "answer_this_username_busy"
+msgstr "Username is busy or incorrect"
+
+msgid "answer_login_ok"
+msgstr "Login successful"
+
+msgid "settings_tab_notification"
+msgstr "Sending of online & offline Notifications"
+
+msgid "settings_email_for_offline_msg"
+msgstr "Send \"offline\" messages to this email"
+
+msgid "settings_email_for_first_msg"
+msgstr "If new \"online\" chat started, send notifications to this email"
+
+msgid "test_mail"
+msgstr "Test"
+
+msgid "mail_is_empty"
+msgstr "Please, type some email address. Without email address this functionality is not in use."
+
+msgid "test_mail_was_successfully"
+msgstr "Email was sent successfully! Please, check your mailbox."
+
+msgid "test_mail_was_not_sent"
+msgstr "<strong>Email was not sent!</strong><br /> Possible reasons:<br />- email address was entered incorrectly or <br />- mail() function on your server/hosting was't found or not configured.<br /> <strong>Check your mail server  configuration.</strong>"
+
+msgid "subject_offline_message"
+msgstr "Chats - new offline message from"
+
+msgid "subject_email_for_first_msg"
+msgstr "Chats - new chat started on"
+
+msgid "user_ip"
+msgstr "User IP"
+
+msgid "user_message"
+msgstr "User Message"
+
+msgid "user_message_page"
+msgstr "Referer URL"
+
+msgid "close"
+msgstr "hide this message"
+
+msgid "settings_smtp"
+msgstr "Email Settings / SMTP Settings"
+
+msgid "send_mail_with"
+msgstr "Send mail notifications using one of three methods:"
+
+msgid "with_wpchatcom_service"
+msgstr "wp-chat.com service"
+
+msgid "with_server_service"
+msgstr "this website"
+
+msgid "with_own_smtp_service"
+msgstr "my own smtp server"
+
+msgid "test_smtp"
+msgstr "Test SMTP"
+
+msgid "settings_smtp_host"
+msgstr "SMTP Server"
+
+msgid "settings_smtp_user"
+msgstr "SMTP User"
+
+msgid "settings_smtp_pass"
+msgstr "SMTP Password"
+
+msgid "settings_smtp_port"
+msgstr "SMTP Port"
+
+msgid "smtp_test_was_successfully"
+msgstr "Test SMTP was Successful"
+
+msgid "notification_email_empty"
+msgstr "\"Email notifications\" are empty, please fill these fields"
+
+msgid "desc_mail_notification"
+msgstr "To deactivate sending of notification messages - just delete email address from corresponding field"
+
+msgid "website_smtp_desc"
+msgstr "Email messages will be sent through this website, using functionality of your installed WordPress"
+
+msgid "wpchat_smtp_desc"
+msgstr "Email messages will be sent through wp-chat.com online service. Can be useful, if mail server on this hosting/server is not available"
+
+msgid "info_smtp_desc"
+msgstr "All email messages will be sent via the specified mailbox. You can get SMTP setup data in your hosting panel or just ask your webmaster"
+
+msgid "method_1"
+msgstr "Method 1"
+
+msgid "method_2"
+msgstr "Method 2"
+
+msgid "method_3"
+msgstr "Method 3"
+
+msgid "advanced_mail_settings"
+msgstr "Advanced mail settings"
+
+msgid "title_page_post_setting"
+msgstr "Chat window on Posts and Pages"
+
+msgid "pps_access_view"
+msgstr "Visibility of chat window on"
+
+msgid "pps_none"
+msgstr "- select -"
+
+msgid "pps_category"
+msgstr "Category"
+
+msgid "pps_post_page"
+msgstr "Post/Page"
+
+msgid "pps_main"
+msgstr "Main page"
+
+msgid "pps_category_name"
+msgstr "Category name"
+
+msgid "pps_category_posts"
+msgstr "Posts in category"
+
+msgid "pps_deny"
+msgstr "Deny"
+
+msgid "pps_allow"
+msgstr "Allow"
+
+msgid "pps_page_post_name"
+msgstr "Post/Page title"
+
+msgid "pps_type"
+msgstr "Type"
+
+msgid "pps_show_main"
+msgstr "Main page"
+
+msgid "pps_yes"
+msgstr "Yes"
+
+msgid "pps_no"
+msgstr "No"
+
+msgid "save_visibility_button"
+msgstr "Save visibility settings"
+
+msgid "chat_signatures"
+msgstr "Chat signatures"
+
+msgid "open_administration_area"
+msgstr "Open administration area"
+
+msgid "connection_error"
+msgstr "Error connecting to server secure.wp-chat.com."
+
+msgid "popup_chat_automatically"
+msgstr "Pop-up chat automatically"
+
+msgid "delay"
+msgstr "Delay"
+
+msgid "chat_timezone"
+msgstr "Chat timezone"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "Auto(time zone of the visitor)"
+
+msgid "select"
+msgstr "Select"
+
+msgid "mod_security_installed"
+msgstr "Failed to communicate with chat, because the server has a protection module <a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a>. To resolve this problem, follow the steps from <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>the instructions</a>"
+
+msgid "cloudflare_site"
+msgstr "Failed to communicate with the chat because it uses the <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a> service. Configure Firewall CloudFlare as indicated in <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>the instructions</a>"
+
+msgid "sec"
+msgstr "sec"
+
+msgid "position"
+msgstr "position"
+
+msgid "status"
+msgstr "status"
+
+msgid "admin_signature"
+msgstr "Admin"
+
+msgid "user_signature"
+msgstr "You"
+
+msgid "hello_message"
+msgstr "Hello. Do you have any questions?"
+
+msgid "panel_title"
+msgstr "Chat with us"
+
+msgid "enter_text_placeholder"
+msgstr "Enter your message..."
+
+msgid "btn_finish_text"
+msgstr "Finish"
+
+msgid "thank_message"
+msgstr "Thank you for using Live Chat. To help us serve you better, please take a moment to complete a short survey. It will display as you close the chat by clicking the chat bubble at the top right of the screen. Thanks for chatting. Please click the \"Close\" icon, and then tell us how we did."
+
+msgid "offline_message"
+msgstr "Sorry, but we are offline now. Please, leave your contact email and your message. We will communicate with you as soon as possible."
+
+msgid "email_label"
+msgstr "Email"
+
+msgid "name_label"
+msgstr "Name"
+
+msgid "message_label"
+msgstr "Message"
+
+msgid "send_email"
+msgstr "Send email"
+
+msgid "offline_thank_message"
+msgstr "Your message was sent. Thank you."
+
+msgid "Integration method"
+msgstr "Integration method"
+
+msgid "internal"
+msgstr "internal"
+
+msgid "external"
+msgstr "external"
+
+msgid "<b>Unable to get data from the server.</b><br>Try to change the integration method to \"external\"."
+msgstr "<b>Unable to get data from the server.</b><br>Try to change the integration method to \"external\"."

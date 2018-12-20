@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chats\n"
+"POT-Creation-Date: 2016-11-30 16:04+0400\n"
+"PO-Revision-Date: 2017-06-11 18:14+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chat.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "page_settings_title"
+msgstr "Chats"
+
+msgid "settings_tab_color"
+msgstr "Chat-Interface"
+
+msgid "settings_width"
+msgstr "Breite"
+
+msgid "settings_panel_background"
+msgstr "Hintergrundfarbe der Titelzeile"
+
+msgid "settings_panel_border_color"
+msgstr "Chat-Rahmenfarbe"
+
+msgid "settings_body_background"
+msgstr "Hintergrundfarbe der Message"
+
+msgid "settings_btn_finish_background"
+msgstr "Hintergrundfarbe der Taste \"Vollenden\""
+
+msgid "settings_btn_finish_color"
+msgstr "Textfarbe der Taste \"Vollenden\""
+
+msgid "settings_btn_finish_border_color"
+msgstr "Rahmenfarbe der Taste \"Vollenden\""
+
+msgid "settings_btn_expand_background"
+msgstr "Hintergrundfarbe  der Taste \"Erweitern\""
+
+msgid "settings_admin_signature_color"
+msgstr "Farbe der Taste von Admin-Unterschrift"
+
+msgid "settings_admin_text_color"
+msgstr "Textfarbe der Admin-Message "
+
+msgid "settings_user_signature_color"
+msgstr "Farbe der Unterschrift von Benutzer"
+
+msgid "settings_user_text_color"
+msgstr "Textfarbe von Benutzer-Message"
+
+msgid "settings_time_color"
+msgstr "Zeitmarkefarbe"
+
+msgid "settings_message_border_color"
+msgstr "Message-Rahmenfarbe"
+
+msgid "settings_write_panel_background"
+msgstr "Panelhintergrundfarbe"
+
+msgid "settings_write_area_background"
+msgstr "Hitergrundfarbe des Felds für Eingabe der Message"
+
+msgid "settings_write_area_color"
+msgstr "Textfarbe im Feld für Eingabe der Message"
+
+msgid "settings_show_avatars"
+msgstr "Zeigen Avatars?"
+
+msgid "settings_admin_avatar"
+msgstr "Admin-Avatar"
+
+msgid "settings_user_avatar"
+msgstr "Benutzer-Avatar"
+
+msgid "settings_tab_template"
+msgstr "Erweiterte Einstellungen"
+
+msgid "settings_position"
+msgstr "Position"
+
+msgid "settings_position_left"
+msgstr "Links"
+
+msgid "settings_position_right"
+msgstr "Rechts"
+
+msgid "settings_status"
+msgstr "Chat-Status"
+
+msgid "settings_status_1"
+msgstr "Online"
+
+msgid "settings_status_2"
+msgstr "Chat versteckt"
+
+msgid "settings_status_3"
+msgstr "Offline "
+
+msgid "settings_tab_text"
+msgstr "Chat-Texte"
+
+msgid "settings_admin_signature"
+msgstr "AdminUnterschrift"
+
+msgid "settings_user_signature"
+msgstr "Benutzer-Unterschrift"
+
+msgid "settings_hello_message"
+msgstr "\"Hallo\" Message"
+
+msgid "settings_panel_title"
+msgstr "Panelkopf "
+
+msgid "settings_enter_text_placeholder"
+msgstr " Hinweistext"
+
+msgid "settings_btn_finish_text"
+msgstr "Tastename \"Vollenden\""
+
+msgid "settings_thank_message"
+msgstr "\"Danke\" Message"
+
+msgid "settings_offline_message"
+msgstr "\"Offline\" Message"
+
+msgid "settings_email_label"
+msgstr "E-mail"
+
+msgid "settings_name_label"
+msgstr "Vorname"
+
+msgid "settings_message_label"
+msgstr " Message-Zeichnung"
+
+msgid "settings_send_email"
+msgstr "Tastename \"die Message senden\""
+
+msgid "settings_offline_thank_message"
+msgstr "\"Offline Danke\" Message"
+
+msgid "settings_tab_auth"
+msgstr "Chat- Aktivierung"
+
+msgid "settings_tab_auth2"
+msgstr "Registrierung und Aktivierung von Chat"
+
+msgid "settings_personal_key"
+msgstr "Persönlicher Schlüssel"
+
+msgid "settings_personal_key_desc"
+msgstr "Seien Sie vorsichtig, dieser Schlüssel sollte der gleiche wie im Admin-Panel der Website sein"
+
+msgid "settings_auth_email"
+msgstr "Login (E-mail)"
+
+msgid "settings_auth_password1"
+msgstr "Kennwort"
+
+msgid "settings_auth_password2"
+msgstr "Bestätigung das Kennwort"
+
+msgid "settings_auth_register_btn"
+msgstr "Registrierung und Aktivierung "
+
+msgid "settings_auth_login_btn"
+msgstr "Login "
+
+msgid "settings_existing_user"
+msgstr "Existierender Benutzer"
+
+msgid "settings_new_user"
+msgstr "Neuer Benutzer"
+
+msgid "answer_server_not_answer"
+msgstr "Verbindung zum Server konnte nicht hergestellt werden"
+
+msgid "answer_incorrect_url"
+msgstr "Falsche URL der Domäne"
+
+msgid "answer_incorrect_data"
+msgstr "Formular wurde unkorrekt ausgefüllt"
+
+msgid "answer_incorrect_login_or_password"
+msgstr " Benutzername oder Kennwort ist unkorrekt "
+
+msgid "answer_user_not_found"
+msgstr "Benutzername wurde nicht gefunden"
+
+msgid "answer_this_username_busy"
+msgstr "Benutzername ist besetzt oder falsch"
+
+msgid "answer_login_ok"
+msgstr "Login erfolgreich"
+
+msgid "settings_tab_notification"
+msgstr "Sendung von Online- und Offline-Nachrichten"
+
+msgid "settings_email_for_offline_msg"
+msgstr "Sendung von Online- Nachrichten an diese E-Mail"
+
+msgid "settings_email_for_first_msg"
+msgstr "Wenn eine neue \"online\" Chat beginnt, die Nachrichten an diese E-Mail senden"
+
+msgid "test_mail"
+msgstr "Test"
+
+msgid "mail_is_empty"
+msgstr "Bitte, geben einige E-mail-Adresse ein. Ohne E-mail funktioniert diese Funktion nicht"
+
+msgid "test_mail_was_successfully"
+msgstr "E-mail wurde erforgleich gesandt. Bitte, überprüfen Sie Ihre Mailbox."
+
+msgid "test_mail_was_not_sent"
+msgstr "<strong> E-Mail wurde nicht gesandt</strong><br />Mögliche  Ursachen: <br />E-Mail Adresse wurde unkorrekt eingegeben oder <br /> Mail Funktion auf dem Server/Hosting wurde nicht gefunden oder ist nicht konfiguriert <br /> <strong>Überprüfen Sie Ihre Mail-Server-Konfiguration. </ strong>"
+
+msgid "subject_offline_message"
+msgstr "Chats- neue online Nachricht "
+
+msgid "user_ip"
+msgstr "Benutzer IP "
+
+msgid "user_message"
+msgstr "Benutzer-Nachricht"
+
+msgid "user_message_page"
+msgstr " Referrer URL "
+
+msgid "close"
+msgstr "Diese Nachricht ausblenden"
+
+msgid "settings_smtp"
+msgstr "E-Mail-Einstellungen / SMTP-Einstellungen"
+
+msgid "send_mail_with"
+msgstr "Sendung von E-Mail-Nachrichten durch eine von drei Methoden:"
+
+msgid "with_wpchatcom_service"
+msgstr "wp-chat.com Service"
+
+msgid "with_server_service"
+msgstr "Mittel der Website"
+
+msgid "with_own_smtp_service"
+msgstr "SMTP-Server"
+
+msgid "test_smtp"
+msgstr "Test SMTP"
+
+msgid "settings_smtp_host"
+msgstr "Server-Adresse"
+
+msgid "settings_smtp_user"
+msgstr "Benutzername"
+
+msgid "settings_smtp_pass"
+msgstr "Kennwort"
+
+msgid "settings_smtp_port"
+msgstr "Anschluss"
+
+msgid "smtp_test_was_successfully"
+msgstr "Test SMPT war erfolgreich"
+
+msgid "notification_email_empty"
+msgstr "\"E-Mail-Benachrichtigungen\" sind leer, bitte füllen Sie diese Felder aus"
+
+msgid "desc_mail_notification"
+msgstr "Um das Versenden von Benachrichtigungsnachrichten zu deaktivieren, löschen Sie die E-Mail-Adresse aus dem entsprechenden Feld"
+
+msgid "website_smtp_desc"
+msgstr "E-Mails werden durch diese Website mit der Funktionalität von WordPress gesendet"
+
+msgid "wpchat_smtp_desc"
+msgstr "Sendung von E-mail-Nachrichten durch online Server wp-chat.com ist möglich nur wenn  das Liefern von Mail-Nachrichten durch diese Hosting/Server unmöglich ist. Nämlich, Ihrer laufende Post-Server/Hosting. "
+
+msgid "info_smtp_desc"
+msgstr "Alle E-Mail-Nachrichten werden durch die angegebene Mailbox gesendet. Sie können Daten der SMTP-Einstellung in Ihrem Hosting-Panel erhalten oder fragen Sie einfach unseren Web-Master. "
+
+msgid "method_1"
+msgstr "Methode 1"
+
+msgid "method_2"
+msgstr "Methode 2"
+
+msgid "method_3"
+msgstr "Methode 3"
+
+msgid "advanced_mail_settings"
+msgstr "Erweiterte E-Mail-Einstellungen"
+
+msgid "title_page_post_setting"
+msgstr "Chat-Fenster in Posten und auf den Seiten"
+
+msgid "pps_access_view"
+msgstr "Sichtbarkeit des Chatfensters auf"
+
+msgid "pps_none"
+msgstr " -wählen-"
+
+msgid "pps_category"
+msgstr "Kategorie"
+
+msgid "pps_post_page"
+msgstr "Posten/Seite"
+
+msgid "pps_main"
+msgstr "Hauptseite"
+
+msgid "pps_category_name"
+msgstr "Kategoriename"
+
+msgid "pps_category_posts"
+msgstr "Post in der Kategorie"
+
+msgid "pps_deny"
+msgstr " verbieten"
+
+msgid "pps_allow"
+msgstr "erlauben"
+
+msgid "pps_page_post_name"
+msgstr "Post / Seitentitel"
+
+msgid "pps_type"
+msgstr "Typ"
+
+msgid "pps_show_main"
+msgstr "Hauptseite"
+
+msgid "pps_yes"
+msgstr "Ja"
+
+msgid "pps_no"
+msgstr "Nein"
+
+msgid "save_visibility_button"
+msgstr "Sichtbarkeitseinstellungen speichern"
+
+msgid "chat_signatures"
+msgstr "Chat-Signaturen"
+
+msgid "open_administration_area"
+msgstr "Eingang zum Administrationsbereich"
+
+msgid "connection_error"
+msgstr "Fehler beim Verbinden zum Server secure.wp-chat.com."
+
+msgid "popup_chat_automatically"
+msgstr " Automatische Öffnung von Chat-Fenster"
+
+msgid "delay"
+msgstr "Verzögern"
+
+msgid "chat_timezone"
+msgstr "Chat-Zeitzone"
+
+msgid "auto_timezone_of_the_visitor"
+msgstr "Automatische (Zeitzone des Besuchers)"
+
+msgid "select"
+msgstr "Wählen"
+
+msgid "mod_security_installed"
+msgstr "Fehler beim Verbinden zum Chat, da auf dem Server einen Schutzmodul ist eingesetzt.<a href=\"https://www.modsecurity.org/\" target=_blank>ModSecurity</a>. Um dieses Problem zu beheben, nehmen die Handlung aus <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank> die Anweisungen </a> vor."
+
+msgid "cloudflare_site"
+msgstr "Fehler beim Verbinden zum Chat, da den Server <a href=\"https://www.cloudflare.com/\" target=_blank>CloudFlare</a> verwendet ist. Konfigurieren Sie Firewall CloudFlare как указано в <a href=\"http://secure.wp-chat.com/chat-faq\" target=_blank>die Anweisungen</a>"
+
+msgid "sec"
+msgstr "Sec"
+
+msgid "position"
+msgstr "Position"
+
+msgid "status"
+msgstr "Status"
+
+msgid "admin_signature"
+msgstr "Admin"
+
+msgid "user_signature"
+msgstr "Sie"
+
+msgid "panel_title"
+msgstr "Chat mit uns"
+
+msgid "btn_finish_text"
+msgstr "Beenden"
+
+msgid "thank_message"
+msgstr "Vielen Dank für die Verwendung von Live Chat. Um Ihnen einen besseren Service zu bieten, brauchen wir Ihre Hilfe. Bitte, bleiben Sie eine Zusammenschau über unseren Service. Bitte,  klicken Sie auf die taste \"Schließen\" und dann sagen uns wie und was haben wir unkorrekt oder  unbequem gemacht"
+
+msgid "offline_message"
+msgstr "Wir freuen uns, Ihre Nachricht zu bekommen, obwohl sind wir jetzt offline. Bitte, hinterlassen Sie Ihre kontakt-E-Mail, Telefon und Ihre Nachricht.Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen."
+
+msgid "email_label"
+msgstr "Email"
+
+msgid "name_label"
+msgstr "Vorname"
+
+msgid "message_label"
+msgstr "Message"
+
+msgid "send_email"
+msgstr "Die Message senden"
+
+msgid "offline_thank_message"
+msgstr "Ihre Message wurde versandt. Vielen Dank."
+
+msgid "Integration method"
+msgstr "Integrationsmethode"
+
+msgid "internal"
+msgstr "intern"
+
+msgid "external"
+msgstr "extern"
+
+msgid "<b>Unable to get data from the server.</b><br>Try to change the integration method to \"external\"."
+msgstr "<b>Daten können nicht vom Server abgeholt werden.<b><br> Versuchen Sie, die Integrationsmethode auf \"extern\" zu ändern."
+
+#: chats.php:2063
+msgid "Several ways to add to the website interface an element for opening and closing of chat-box:"
+msgstr "Es gibt Elemente, mit deren Hilfe es möglich ist den Chat-Box zu öffnen und zu schließen auf der Website:"
+
+#: chats.php:2067
+#, php-format
+msgid "Adding of bookmark-link: \"%s1\" - for opening of chat-box, \"%s2\" - and for closing of chat-box or just \"%s3\"(for opening and closing of chat-box within one bookmark-link)."
+msgstr "Hinzufügen von bookmark-link: \"%s1\" - zum Öffnen der Chat-Box \"%s2\" - und zum Schließen von Chat-Box oder nur \"%s3\" (zum Öffnen und Schließen von Chat-Boxen innerhalb eines Bookmark-Link)."
+
+#: chats.php:2076
+msgid "For example"
+msgstr "Zum Beispiel"
+
+#: chats.php:2079
+msgid "To add as website menu item:"
+msgstr "Einfügen als Website-Menü-Element:"
+
+#: chats.php:2082
+#, php-format
+msgid "select a page \"%s1\", \"%s2\" or \"%s3\" from the list \"%s4\""
+msgstr "Eine Seite auswählen \"%s1\", \"%s2\" oder \"%s3\" aus der Liste \"%s4\""
+
+#: chats.php:2103
+msgid "To add as a website widget \"WPAdm Chat Control\". In this case, it is possible to customize the appearance of the widget"
+msgstr "Hinzufügen als Website-Widget \"WPAdm Chat Control\". Dadurch ist es möglich das Aussehen des Widgets anzupassen"
+
+#: widget.php:101
+msgid "Chat"
+msgstr "Chat"
+
+#: widget_form.php:42
+msgid "Type"
+msgstr "Type"
+
+#: widget_form.php:46
+msgid "Button"
+msgstr "Button"
+
+#: widget_form.php:47
+msgid "Link"
+msgstr "Link"
+
+#: widget_form.php:53
+msgid "Preview"
+msgstr "Vorschau"
+
+#: widget_form.php:69
+msgid "Text"
+msgstr "Text"
+
+#: widget_form.php:76
+msgid "Class name"
+msgstr "Name der Klasse"
+
+#: widget_form.php:81 widget_form.php:119
+msgid "Color"
+msgstr "Farbe"
+
+#: widget_form.php:86 widget_form.php:123
+msgid "Background"
+msgstr "Hintergrund"
+
+#: widget_form.php:90 widget_form.php:127
+msgid "Border color"
+msgstr "Randfarbe"
+
+#: widget_form.php:95
+msgid "Border radius"
+msgstr "Randradius"
+
+#: widget_form.php:103 widget_form.php:131
+msgid "Shadow color"
+msgstr "Schattenfarbe"
+
+#: widget_form.php:109
+msgid "Shadow size"
+msgstr "Schattengröße"
+
+#: widget_form.php:116
+msgid "On hover"
+msgstr "Beim Maus hover"
+
+msgid "During website theme development use the js-methods %s1, %s2 and %s3"
+msgstr "Verwenden Sie bei der Entwicklung von Website-Designs die js-Methoden %s1, %s2 und %s3"
+
+msgid "Use shortcode $ to insert as button or link in the template(theme) of your site"
+msgstr "Verwenden Sie Shortcode $, um diese als Button oder Link in der Vorlage (Thema) Ihrer Website einzufügen"
+
+msgid "Do not forget"
+msgstr "Vergessen Sie nicht"
+
+msgid "Activate Chat"
+msgstr "Chat aktivieren"
+
+msgid "Show status indicator"
+msgstr "Status-Indikator zeigen"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Pro License"
+msgstr "Pro Lizenz"
+
+msgid "Free License"
+msgstr "Free Lizenz"
+
+msgid "Custom visitor interface"
+msgstr "Konfigurierbare mehrsprachige Interface"
+
+msgid "Visitor Multilingual interface"
+msgstr "Besucher mehrsprachige Interface"
+
+msgid "Administrator Multilingual interface"
+msgstr "Administrator mehrsprachige Interface"
+
+msgid "Sending of chat messages"
+msgstr "Senden von Chat-Nachrichten"
+
+msgid "Unlimited chat queries and requests"
+msgstr "Unbegrenzte Chat-Anfragen und Rückfragen"
+
+msgid "Simultaneous chats"
+msgstr "Gleichzeitige Chats"
+
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+msgid "Chat Operators"
+msgstr "Chat Operatoren"
+
+msgid "Priority of incoming messages for each operator"
+msgstr "Priorität der eingehenden Nachrichten für jeden Operator"
+
+msgid "The number of simultaneous chats for each operator can be set"
+msgstr "Die Anzahl der simultanen Chats für jeden Operator kann eingestellt werden"
+
+msgid "Statistic about visitor"
+msgstr "Statistik über Besucher"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Operating system"
+msgstr "Betriebssystem"
+
+msgid "User on world map"
+msgstr "Benutzer auf der Weltkarte"
+
+msgid "Detailed Statistics"
+msgstr "Detaillierte Statistiken"
+
+msgid "Chat Archive messages"
+msgstr "Chat Nachrichtenarchiv"
+
+msgid "Chat Offline messages"
+msgstr "Chat Offline-Nachrichten"
+
+msgid "Chat Auto-Answer messages"
+msgstr "Chat Automatische Antwort-Nachrichten"
+
+msgid "Request for visitor's email and name"
+msgstr "Den Visitor nach dem E-Mail und dem Namen fragen"
+
+msgid "Chat Mobile App"
+msgstr "Chat Mobile App"
+
+msgid "download from Google Play"
+msgstr "Download von Google Play"
+
+msgid "Chat Chrome App"
+msgstr " Chat Chrome App"
+
+msgid "download from Google Chrome Web Store"
+msgstr "Download von Google Chrome Web Store"
+
+msgid "Unlimited websites"
+msgstr "Unbegrenzte Webseiten"
+
+msgid "Unlimited number of domains"
+msgstr "unbegrenzte Anzahl von Domains"
+
+msgid "All the chats messages are <strong>not&nbsp;spread&nbsp;equally</strong> between admin and operators"
+msgstr "Alle Chats-Nachrichten <strong>werden&nbsp;nicht&nbsp;gleichmäßig</strong> zwischen admin und Operatoren verteilt"
+
+msgid "Remove copyright notice \"Powered by\""
+msgstr "Copyright Label \"Powered by\" kann abgeschaltet werden"
+
+msgid "Real time Statistics"
+msgstr "Echtzeit-Statistiken"
+
+msgid "Visitors online statistics"
+msgstr "Besucher Online-Statistik"
+
+msgid "Country"
+msgstr "Staat"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "User (customer) detail info can be saved during chat"
+msgstr "Benutzerdaten (Kundendaten) können im Chat gespeichert werden"
+
+msgid "First and last name, company, address, email, phone, skype, social data like Facebook, Twitter, Google+"
+msgstr "Vorname und Nachname, Unternehmen, Adresse, E-Mail, Tel, Skype, Socialnetworks Daten wie Facebook, Twitter, Google+"
+
+msgid "FREE vs PRO"
+msgstr "FREE vs PRO"
+
+msgid "Get PRO"
+msgstr "Get PRO"
+
+msgid "Get professional chat version"
+msgstr "Chat professionelle Version kaufen"
